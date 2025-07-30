@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuchen (Eason) Shi"
-description              : "NYUSH Chemistry & Data Science'27"
+description              : "Personal academic website of Yuchen"
 repository               : "EasonShi0624
 EasonShi0624.github.io"
 google_scholar_stats_use_cdn : false
@@ -22,13 +22,16 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Yuchen (Eason) Shi"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "NYUSH Chemistry & Data Science'27"
-  location         : "Shanghai China; Suzhou, China; New York, U.S.A."
+  bio              : "NYUSH Chemistry & Data Science'27
+                      Passinate undergraduate interested in Theoretical & Computational Chemistry"
+  location         : "Shanghai, China
+                      Suzhou, China
+                      New York, U.S."
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : 
   email            : "YS6132@nyu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
