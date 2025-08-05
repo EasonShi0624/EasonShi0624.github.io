@@ -19,24 +19,27 @@ redirect_from:
 
 
 # 😁 About Me
-Hi there! Welcome to Yuchen's academic homepage! \n
-I'm now a rising junior in NYUSH, pursing double majors in Chemistry and Data Science. My research intersts concentrate on utilizing computational techniques to 
+Hi there! Welcome to Yuchen's academic homepage!\nI'm now a rising junior in NYUSH, pursing double majors in Chemistry and Data Science. My research intersts concentrate on utilizing computational techniques to explore the wonderful world of chemistry. My current academic background focuses on non-adiabatic molecular dynamics and enhanced sampling. While I'm always open to work in new areas like electronic structure and quantum computing.\n
 
 
 # 📝 Research
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Educations
 - *2023.08 - Present*, B.S. in Chemistry with double major in Data Science, New York University Shanghai. \n Cumulative GPA: 3.984 
 
+# 💻 Positions
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🎖 Honors and Awards
+- *2023.9* Violet Scholarship awarded by NYUSH, for distinguished performance upon admission
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+
+
+# 📸 Arts Gallery
+Beyond academics, I'm an enthusiast in photography and filming. 
+"Photography is the simultaneous recognition, in a fraction of a second, of the significance of an event." ―― Henri Cartier-Bresson
+
+
+
