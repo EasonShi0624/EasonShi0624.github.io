@@ -24,11 +24,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuchen (Eason) Shi"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "NYUSH Chemistry & Data Science'27 \n
-                      Passionate undergraduate interested in Theoretical & Computational Chemistry"
-  location         : "Shanghai, China \n
-                      Suzhou, China \n
-                      New York, U.S."
+  bio              : | 
+                       NYUSH Chemistry & Data Science'27
+                       Passionate undergraduate interested in Theoretical & Computational Chemistry
+  location         : | 
+                       Shanghai, China
+                       Suzhou, China
+                       New York, U.S.
   employer         :
   pubmed           : 
   googlescholar    : 
