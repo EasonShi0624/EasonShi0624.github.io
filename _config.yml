@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuchen (Eason) Shi"
-description              : "Personal academic website of Yuchen"
+description              : "Passionate undergraduate interested in Theoretical & Computational Chemistry"
 repository               : "EasonShi0624
 EasonShi0624.github.io"
 google_scholar_stats_use_cdn : false
@@ -24,9 +24,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuchen (Eason) Shi"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : | 
-                       NYUSH Chemistry & Data Science'27
-                       Passionate undergraduate interested in Theoretical & Computational Chemistry
+  bio              : "NYUSH Chemistry & Data Science'27"
+                       
   location         : | 
                        Shanghai, China
                        Suzhou, China
@@ -51,7 +50,7 @@ author:
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/yuchenshi0624/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0002-4255-9825"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
