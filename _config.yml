@@ -8,8 +8,7 @@
 # Site Settings
 title                    : "Yuchen (Eason) Shi"
 description              : "Passionate undergraduate interested in Theoretical & Computational Chemistry"
-repository               : "EasonShi0624
-EasonShi0624.github.io"
+repository               : "EasonShi0624/EasonShi0624.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -26,10 +25,10 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "NYUSH Chemistry & Data Science'27"
                        
-  location         :| 
-                      Shanghai, China
-                      Suzhou, China
-                      New York, U.S.
+  location         : |
+    Shanghai, China
+    Suzhou, China
+    New York, U.S.
   employer         :
   pubmed           : 
   googlescholar    : 
