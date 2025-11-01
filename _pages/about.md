@@ -19,16 +19,22 @@ redirect_from:
 
 
 # 😁 About Me
-Hi there! Welcome to Yuchen's academic homepage!\nI'm now a rising junior in NYUSH, pursing double majors in Chemistry and Data Science. My research intersts concentrate on utilizing computational techniques to explore the wonderful world of chemistry. My current academic background focuses on non-adiabatic molecular dynamics and enhanced sampling. While I'm always open to work in new areas like electronic structure and quantum computing.\n
+Hi, I'm Yuchen Shi. Welcome to my homepage!
+
+I'm now a rising junior in NYUSH, pursing double majors in Chemistry and Data Science. I also work as an undergraduate research assistant studying computational chemistry in Professor William J. Glover's <strong style="color: #4b6aa1;"><a href="https://wp.nyu.edu/glover/" style="color: #4b6aa1; text-decoration: none;"> group and Professor Mark E. Tuckerman's <strong style="color: #4b6aa1;"><a href="https://wp.nyu.edu/tuckerman_group/" style="color: #4b6aa1; text-decoration: none;"> group.
+
+I'm interested in 
+
+I'm actively seeking for a PhD position in Theoretical/Computaional Chemistry, Data Science, or Computer Science in 27 Fall.
 
 
 # 📝 Research
 
 
 # 📖 Educations
-- *2023.08 - Present*, B.S. in Chemistry with double major in Data Science, New York University Shanghai. \n Cumulative GPA: 3.984 
+- *2023.08 - Present*, B.S. in Chemistry with double major in Data Science, New York University Shanghai. Cumulative GPA: 3.984 
 
-# 💻 Positions
+# 💻 Leadership & Activities
 
 
 # 🎖 Honors and Awards
