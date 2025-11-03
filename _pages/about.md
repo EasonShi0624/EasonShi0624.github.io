@@ -38,12 +38,16 @@ I'm actively seeking for a PhD position in Theoretical/Computaional Chemistry, D
 
 # 📝 Research
 ## Research Experience
+- *2025.10-Present* **Tuckerman Research Group**, NYU Department of Chemistry. PI: Mark E. Tuckerman
+- *2024.2-Present* **Glover Group**, NYU Shanghai Department of Chemistry. PI: William J. Glover
+
 
 ## Selected Projects
 ### 1. Non-adiabatic Dynamics of Photo-response in Green Fluoresent Proteins (GFP)
-**Supervisor: William J. Glover**
-**Keyword: Photochemistry; Ab-initio Multiple Spawning (AIMS); QM/MM**
-Since firstly extracted in A. victoria, fluorescent proteins (FP) have evolved to be one of most essential research tools for multiple life science areas with their fantastic light-induced fluorescence. However, in application, the chromophore of fluorescent proteins could experience complex photochemical processes with the optical properties changed. We hope to use non-adiabatic molecular dynamics to capture its excited dynamics and tune its photo-reponse through mutations, hopefully guiding experiments explorations of protein engineering.
+**Supervisor: William J. Glover** <br>
+**Keyword: Photochemistry; Ab-initio Multiple Spawning (AIMS); QM/MM** <br>
+Since firstly extracted in A. victoria, fluorescent proteins (FP) have evolved to be one of most essential research tools for multiple life science areas with their fantastic light-induced fluorescence. However, in application, the chromophore of fluorescent proteins could experience complex photochemical processes with the optical properties changed. We hope to use non-adiabatic molecular dynamics to capture and interprete its excited dynamics and tune its photo-reponse through mutations, hopefully guiding understanding and developments of fluoresent proteins.
+
 #### 1.1 Tuning the Photo-oxidation of the Green Fluorescence Protein (GFP) Chromophore Through Chemical Modifications
 
 #### 1.2 UV Response of Neutral and Anionic Green Fluorescent Protein (GFP) Chromophore: A QM/MM Non-adiabatic Dynamics Study
@@ -51,23 +55,23 @@ Since firstly extracted in A. victoria, fluorescent proteins (FP) have evolved t
 
 
 ### 2. Investigate Photo-relaxation of Uracil through Ab Initio Molecular Dynamics
-**Supervisor: William J. Glover**
-**Keyword: Spectroscopy; Ab-initio Molecular Dynamics (AIMD); Enhanced Sampling**
-
+**Supervisor: William J. Glover** <br>
+**Keyword: Spectroscopy; Ab-initio Molecular Dynamics (AIMD); Enhanced Sampling** <br>
+As the fundamental building blocks of DNA and RNA chain, nucleotides are essential for human cellular and physiological activities. While exposing to UV light could lead to irreversible photodamage and causing diseases in the long term. We aim to use multiple computational techniques to cross-validate with experimental results and provide insights of the ultrafast dynamics of nucleotides.
 #### 2.1 Theoretical Vibrational IR Spectra from Time-correlation Function (TCF)
+Using time-correlation function and ab initio molecular dynamics in gas phase and condensed phase, we looked into the vibrational IR spectra of uracil and its photo-relaxation intermediate and explored the solvation effects.
 
-
-#### 2.2 Umbrella Sampling-based Free Energy Study of Uracil with Planarity Descriptor
-
+#### 2.2 Umbrella Sampling based Free Energy Study of Uracil Intermediate with Planarity Descriptor
+To understand the reason for multiple timescales of uracil intermediate relaxation, Siyu Li from Oxford University and I utilized a descriptor of molecular planarity associated with umbrella sampling to construct the free energy profile and look into the transition process.
 
 ### 3. Nuclear Quantum Effects in Electrolytes based on Deep Eutectic Solvents
-**Supervisor: Mark E. Tuckerman**
-**Keyword: Electrochemistry; Path Integral Molecular Dynamics (PIMD); Machine Learning**
+**Supervisor: Mark E. Tuckerman** <br>
+**Keyword: Electrochemistry; Path Integral Molecular Dynamics (PIMD); Machine Learning** <br>
 
 
 ### 4. Representation Learning of Images with Convolutional Neural Networks (CNN) 
-**Supervisor: Shengjie Wang**
-**Keyword: Machine Learning; Computer Vision; Feature Extraction**
+**Supervisor: Shengjie Wang** <br>
+**Keyword: Machine Learning; Computer Vision; Feature Extraction** <br>
 
 
 This project was for the final competition of CSCI-SHU 360 Machine Learning and achieved a full score eventually. Codes are available on 
@@ -98,8 +102,8 @@ This project was for the final competition of CSCI-SHU 360 Machine Learning and 
 
 
 # 📸 Arts Gallery
-Beyond academics, I'm an enthusiast in photography and filming. 
-**"Photography is the simultaneous recognition, in a fraction of a second, of the significance of an event." ―― Henri Cartier-Bresson**
+Beyond academics, I'm an enthusiast in photography and filming. <br>
+**"Photography is the simultaneous recognition, in a fraction of a second, of the significance of an event." ―― Henri Cartier-Bresson** <br>
 
 
 
