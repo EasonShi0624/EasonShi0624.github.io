@@ -101,9 +101,26 @@ This project was for the final competition of CSCI-SHU 360 Machine Learning and 
 
 
 
-# 📸 Arts Gallery
+# 📸 Gallery
 Beyond academics, I'm an enthusiast in photography and filming. <br>
-**"Photography is the simultaneous recognition, in a fraction of a second, of the significance of an event." ―― Henri Cartier-Bresson** <br>
+**"Photography is the simultaneous recognition, in a fraction of a second, of the significance of an event." ―― Henri Cartier-Bresson** <br> 
+## Film
+- *2021.6*
+  <strong style="color: #4b6aa1;">
+  <a href="https://b23.tv/WfBtY3f" style="color: #4b6aa1; text-decoration: none;"> Net </a>
+</strong>.
+  (Microfilm) Assistant Camera and Gaffer.
 
+- *2021.9* <strong style="color: #4b6aa1;">
+  <a href="https://b23.tv/UbzZp9l" style="color: #4b6aa1; text-decoration: none;"> A Bite of Suzhou: the Clear and Refreshing Gift </a>
+</strong>.
+  (Documentary) Director of Photography.
+  
+- *2022.6* <strong style="color: #4b6aa1;">
+  <a href="https://b23.tv/qwlfICM" style="color: #4b6aa1; text-decoration: none;"> Bond with Promise </a>
+</strong>.
+ (Music Video) Director, Director of Photography, and Editor.
 
+  
+## Photography
 
