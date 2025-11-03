@@ -64,15 +64,17 @@ Using time-correlation function and ab initio molecular dynamics in gas phase an
 #### 2.2 Umbrella Sampling based Free Energy Study of Uracil Intermediate with Planarity Descriptor
 To understand the reason for multiple timescales of uracil intermediate relaxation, Siyu Li from Oxford University and I utilized a descriptor of molecular planarity associated with umbrella sampling to construct the free energy profile and look into the transition process.
 
-### 3. Nuclear Quantum Effects in Electrolytes based on Deep Eutectic Solvents
+### 3. Nuclear Quantum Effects in Designing Anion Exchange Membrane Fuel Cell Electrolytes based on Deep Eutectic Solvents
 **Supervisor: Mark E. Tuckerman** <br>
 **Keyword: Electrochemistry; Path Integral Molecular Dynamics (PIMD); Machine Learning** <br>
 
 
-### 4. Representation Learning of Images with Convolutional Neural Network (CNN) 
+### 4. Representation Learning of Images with Light-weight Convolutional Neural Network (CNN) 
 **Supervisor: Shengjie Wang** <br>
 **Keyword: Machine Learning; Computer Vision; Feature Extraction** <br>
-Modern vision systems rely on the quality of their learned features and Convolutional Neural Network (CNN) is one powerful tool to extract hierarchical structures of images, enabling robust recognition without hand-crafted descriptors. Representation learning pushes that further to general, transferable embeddings. In this project, I utilized a light-weight CNN based autoencoder to learn representations of a fusion image dataset for a task evaluated by reconstruction loss and recognition accuracy. Multiple techniques such as batch-norm, residue connection, self-attention, and data augmentation are used are improving model performance. <br>
+Modern vision systems rely on the quality of their learned features and Convolutional Neural Network (CNN) is one powerful tool to extract hierarchical structures of images, enabling robust recognition without hand-crafted descriptors. Representation learning pushes that further to general, transferable embeddings. <br>
+
+In this project, I utilized a light-weight CNN based autoencoder to learn representations of a fusion image dataset for a task evaluated by reconstruction loss and recognition accuracy. Multiple techniques such as batch-norm, residue connection, self-attention, and data augmentation are used are improving model performance. <br>
 
 This project was for the final competition of CSCI-SHU 360 Machine Learning and achieved a full score eventually. Codes are available on 
 <strong style="color: #4b6aa1;">
@@ -114,17 +116,17 @@ Beyond academics, I'm an enthusiast in photography and filming. <br>
 ## Film
 - *2021.6*
   <strong style="color: #4b6aa1;">
-  <a href="https://b23.tv/WfBtY3f" style="color: #4b6aa1; text-decoration: none;"> Net </a>
+  <a href="https://b23.tv/WfBtY3f" style="color: #4b6aa1; text-decoration: none;">Net</a>
 </strong>.
   (Microfilm) Assistant Camera and Gaffer.
 
 - *2021.9* <strong style="color: #4b6aa1;">
-  <a href="https://b23.tv/UbzZp9l" style="color: #4b6aa1; text-decoration: none;"> A Bite of Suzhou: the Clear and Refreshing Gift </a>
+  <a href="https://b23.tv/UbzZp9l" style="color: #4b6aa1; text-decoration: none;">A Bite of Suzhou: the Clear and Refreshing Gift</a>
 </strong>.
   (Documentary) Director of Photography.
   
 - *2022.6* <strong style="color: #4b6aa1;">
-  <a href="https://b23.tv/qwlfICM" style="color: #4b6aa1; text-decoration: none;"> Bond with Promise </a>
+  <a href="https://b23.tv/qwlfICM" style="color: #4b6aa1; text-decoration: none;">Bond with Promise</a>
 </strong>.
  (Music Video) Director, Director of Photography, and Editor.
 
