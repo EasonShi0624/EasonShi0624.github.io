@@ -31,7 +31,7 @@ and
 </strong>.
 
 
-So far, I'm interested in **studying how to apply and devlop Molecular Dynamics (MD) in complex systems** and **bridging molecular science with cutting-edged Data Science techniques**.
+For now, I'm interested in and working in **studying how to apply and devlop Molecular Dynamics (MD) in complex systems** and **bridging molecular science with cutting-edged Data Science techniques**. I'm also willing and thrilled to explore other subdiscipline such as electronic structure, drug discovery, quantum computing, etc. 
 
 I'm actively seeking for a PhD position in Theoretical/Computaional Chemistry, Data Science, or Computer Science in 27 Fall. Finger crossed!
 
@@ -49,9 +49,9 @@ I'm actively seeking for a PhD position in Theoretical/Computaional Chemistry, D
 Since firstly extracted in A. victoria, fluorescent proteins (FP) have evolved to be one of most essential research tools for multiple life science areas with their fantastic light-induced fluorescence. However, in application, the chromophore of fluorescent proteins could experience complex photochemical processes with the optical properties changed. We hope to use non-adiabatic molecular dynamics to capture and interprete its excited dynamics and tune its photo-reponse through mutations, hopefully guiding understanding and developments of fluoresent proteins.
 
 #### 1.1 Tuning the Photo-oxidation of the Green Fluorescence Protein (GFP) Chromophore Through Chemical Modifications
-
+The anion chromophore serves as a critical geometry in the photocycle of GFP and channelled multiple photochemical processes. We utilized non-adiabatic dynamics to study the ultrafast UV response of gas-phase GFP chromophore and solved controversy of the photodamage mechanism of GFP chromophore. Further, we proposed two strategies to tune the UV response with chemically modified chromophores.
 #### 1.2 UV Response of Neutral and Anionic Green Fluorescent Protein (GFP) Chromophore: A QM/MM Non-adiabatic Dynamics Study
-
+Beyond the gas-phase study on the anionic chromophore, we included the protein environment and explicit water in this study to more accurately simulated the excited-state dynamics of GFP and expanded the scope to neutural form chromophore in comparison to commonly studied anionic form. Also, we proposed a novel mutation strategy to modify the local electrostatic environment of chromophore and tune the photodamage.
 
 
 ### 2. Investigate Photo-relaxation of Uracil through Ab Initio Molecular Dynamics
@@ -69,27 +69,34 @@ To understand the reason for multiple timescales of uracil intermediate relaxati
 **Keyword: Electrochemistry; Path Integral Molecular Dynamics (PIMD); Machine Learning** <br>
 
 
-### 4. Representation Learning of Images with Convolutional Neural Networks (CNN) 
+### 4. Representation Learning of Images with Convolutional Neural Network (CNN) 
 **Supervisor: Shengjie Wang** <br>
 **Keyword: Machine Learning; Computer Vision; Feature Extraction** <br>
-
+Modern vision systems rely on the quality of their learned features and Convolutional Neural Network (CNN) is one powerful tool to extract hierarchical structures of images, enabling robust recognition without hand-crafted descriptors. Representation learning pushes that further to general, transferable embeddings. In this project, I utilized a light-weight CNN based autoencoder to learn representations of a fusion image dataset for a task evaluated by reconstruction loss and recognition accuracy. Multiple techniques such as batch-norm, residue connection, self-attention, and data augmentation are used are improving model performance. <br>
 
 This project was for the final competition of CSCI-SHU 360 Machine Learning and achieved a full score eventually. Codes are available on 
 <strong style="color: #4b6aa1;">
   <a href="https://github.com/EasonShi0624/25Spring_Machine_Learning" style="color: #4b6aa1; text-decoration: none;"> Github </a>
 </strong>.
 
+
+
 # 📖 Educations
-- *2023.08 - Present*, B.S. in Chemistry with double major in Data Science, New York University Shanghai. Cumulative GPA: 3.984 
+- *2023.08 - Present*, B.S. in Chemistry with double major in Data Science, New York University Shanghai. <br>
+  **Cumulative GPA: 3.984**
 
 ## Training
 - *2025.07*, **2025 Summer School on Machine Learning and Artificial Intelligence for the Molecular Sciences**, NYU Shanghai.
+
+
 
 # 💻 Leadership & Activities
 - *2023.9-2025.5* **Athelete**, Co-Badminton Team, NYUSH Athletics & Fitness Department.
 - *2023.10-2025.5* **Co-founder & Executive Board Member**, NYUSH Birdy.
 - *2024.5-2025.5* **President**, NYUSH Society in Natural Sciences.
  
+
+
 
 # 🎖 Honors and Awards
 - *2023.9* **Violet Scholarship** awarded by NYU Shanghai.
