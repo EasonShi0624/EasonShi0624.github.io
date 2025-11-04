@@ -19,9 +19,9 @@ redirect_from:
 
 
 # 😁 About Me
-Hi, I'm Yuchen Shi. Welcome to my homepage!
+Hi, I'm Yuchen Shi—thanks for stopping by!
 
-I'm now a rising junior in NYUSH, pursing double majors in Chemistry and Data Science. I'm honored to work as an undergraduate research assistant studying computational chemistry in
+I am a rising junior at NYU Shanghai pursuing double majors in Chemistry and Data Science. I am honored to work as an undergraduate research assistant in computational chemistry with
 <strong style="color: #4b6aa1;">
   <a href="https://wp.nyu.edu/glover/" style="color: #4b6aa1; text-decoration: none;">Professor William J. Glover's group</a>
 </strong>
@@ -30,83 +30,109 @@ and
   <a href="https://wp.nyu.edu/tuckerman_group/" style="color: #4b6aa1; text-decoration: none;">Professor Mark E. Tuckerman's group</a>
 </strong>.
 
+My current interests center on **developing molecular dynamics (MD) techniques for complex systems** and **bridging molecular science with cutting-edge data science approaches**. I am also excited to explore neighboring areas including electronic structure, drug discovery, and quantum computing.
 
-For now, I'm interested in and working in **studying how to apply and devlop Molecular Dynamics (MD) in complex systems** and **bridging molecular science with cutting-edged Data Science techniques**. I'm also willing and thrilled to explore other subdiscipline such as electronic structure, drug discovery, quantum computing, etc. 
+I am actively seeking a PhD position in theoretical/computational chemistry, data science, or computer science for Fall 2027. Fingers crossed!
 
-I'm actively seeking for a PhD position in Theoretical/Computaional Chemistry, Data Science, or Computer Science in 27 Fall. Finger crossed!
 
+<span class='anchor' id='research'></span>
 
 # 📝 Research
+
 ## Research Experience
-- *2025.10-Present* **Tuckerman Research Group**, NYU Department of Chemistry. PI: Mark E. Tuckerman
-- *2024.2-Present* **Glover Group**, NYU Shanghai Department of Chemistry. PI: William J. Glover
+
+- *2025.10 – Present* · **Tuckerman Research Group** · NYU Department of Chemistry · PI: Mark E. Tuckerman
+- *2024.02 – Present* · **Glover Group** · NYU Shanghai Department of Chemistry · PI: William J. Glover
 
 
 ## Selected Projects
-### 1. Non-adiabatic Dynamics of Photo-response in Green Fluoresent Proteins (GFP)
-**Supervisor: William J. Glover** <br>
-**Keyword: Photochemistry; Ab-initio Multiple Spawning (AIMS); QM/MM** <br>
-Since firstly extracted in A. victoria, fluorescent proteins (FP) have evolved to be one of most essential research tools for multiple life science areas with their fantastic light-induced fluorescence. However, in application, the chromophore of fluorescent proteins could experience complex photochemical processes with the optical properties changed. We hope to use non-adiabatic molecular dynamics to capture and interprete its excited dynamics and tune its photo-reponse through mutations, hopefully guiding understanding and developments of fluoresent proteins.
+### 1. Non-adiabatic Dynamics of Photo-response in Green Fluorescent Proteins (GFP)
 
-#### 1.1 Tuning the Photo-oxidation of the Green Fluorescence Protein (GFP) Chromophore Through Chemical Modifications
-The anion chromophore serves as a critical geometry in the photocycle of GFP and channelled multiple photochemical processes. We utilized non-adiabatic dynamics to study the ultrafast UV response of gas-phase GFP chromophore and solved controversy of the photodamage mechanism of GFP chromophore. Further, we proposed two strategies to tune the UV response with chemically modified chromophores.
-#### 1.2 UV Response of Neutral and Anionic Green Fluorescent Protein (GFP) Chromophore: A QM/MM Non-adiabatic Dynamics Study
-Beyond the gas-phase study on the anionic chromophore, we included the protein environment and explicit water in this study to more accurately simulated the excited-state dynamics of GFP and expanded the scope to neutural form chromophore in comparison to commonly studied anionic form. Also, we proposed a novel mutation strategy to modify the local electrostatic environment of chromophore and tune the photodamage.
+**Supervisor:** William J. Glover <br>
+**Keywords:** Photochemistry · Ab-initio Multiple Spawning (AIMS) · QM/MM <br>
 
+Fluorescent proteins, first isolated from *A. victoria*, have become essential research tools across the life sciences. Their chromophores can undergo complex photochemical processes that change optical properties. We use non-adiabatic molecular dynamics to capture and interpret the excited-state behavior of GFP chromophores and to explore mutations that modulate photo-response, guiding the design and understanding of fluorescent proteins.
 
-### 2. Investigate Photo-relaxation of Uracil through Ab Initio Molecular Dynamics
-**Supervisor: William J. Glover** <br>
-**Keyword: Spectroscopy; Ab-initio Molecular Dynamics (AIMD); Enhanced Sampling** <br>
-As the fundamental building blocks of DNA and RNA chain, nucleotides are essential for human cellular and physiological activities. While exposing to UV light could lead to irreversible photodamage and causing diseases in the long term. We aim to use multiple computational techniques to cross-validate with experimental results and provide insights of the ultrafast dynamics of nucleotides.
-#### 2.1 Theoretical Vibrational IR Spectra from Time-correlation Function (TCF)
-Using time-correlation function and ab initio molecular dynamics in gas phase and condensed phase, we looked into the vibrational IR spectra of uracil and its photo-relaxation intermediate and explored the solvation effects.
+#### 1.1 Tuning the Photo-oxidation of the GFP Chromophore
 
-#### 2.2 Umbrella Sampling based Free Energy Study of Uracil Intermediate with Planarity Descriptor
-To understand the reason for multiple timescales of uracil intermediate relaxation, Siyu Li from Oxford University and I utilized a descriptor of molecular planarity associated with umbrella sampling to construct the free energy profile and look into the transition process.
+The anionic chromophore is central to the GFP photocycle and mediates multiple photochemical pathways. By applying non-adiabatic dynamics, we resolved controversies surrounding the photodamage mechanism in the gas phase and proposed two chemical modification strategies to tune the UV response.
 
-### 3. Nuclear Quantum Effects in Designing Anion Exchange Membrane Fuel Cell Electrolytes based on Deep Eutectic Solvents
-**Supervisor: Mark E. Tuckerman** <br>
-**Keyword: Electrochemistry; Path Integral Molecular Dynamics (PIMD); Machine Learning** <br>
-Anion exchange membrane (AEM) fuel cell is a promising next-generation energy storage devices with its high efficiency, low cost, and fuel flexibility. However, the hydrogen transportation effiencicy of the electrolytes is a crucial obstable in practice. Deep eutectic solvents (DES) offer tunable hydrogen-bond networks and high chemical stability. To screening candidate electrolytes, we combined path-integral molecular dynamics (PIMD) with machine learning potential to efficiently capture the neuclear quantum effects (NQE).
+#### 1.2 UV Response of Neutral and Anionic GFP Chromophores
 
-### 4. Representation Learning of Images with Light-weight Convolutional Neural Network (CNN) 
-**Supervisor: Shengjie Wang** <br>
-**Keyword: Machine Learning; Computer Vision; Feature Extraction** <br>
-Modern vision systems rely on the quality of their learned features and Convolutional Neural Network (CNN) is one powerful tool to extract hierarchical structures of images, enabling robust recognition without hand-crafted descriptors. Representation learning pushes that further to general, transferable embeddings. <br>
+Building on the gas-phase study, we incorporated the protein environment and explicit solvent to simulate GFP excited-state dynamics more accurately. Comparing neutral and anionic chromophores revealed a promising mutation strategy that reshapes the local electrostatic environment to control photodamage.
 
-In this project, I utilized a light-weight CNN based autoencoder to learn representations of a fusion image dataset for a task evaluated by reconstruction loss and recognition accuracy. Multiple techniques such as batch-norm, residue connection, self-attention, and data augmentation are used are improving model performance. <br>
+### 2. Investigating Photo-relaxation of Uracil via Ab Initio Molecular Dynamics
 
-This project was for the final competition of CSCI-SHU 360 Machine Learning and achieved a full score ranking top 20%. Codes are available on 
+**Supervisor:** William J. Glover <br>
+**Keywords:** Spectroscopy · Ab-initio Molecular Dynamics (AIMD) · Enhanced Sampling <br>
+
+Nucleotides are fundamental to DNA and RNA, yet prolonged UV exposure can trigger irreversible photodamage. We combine multiple computational techniques to complement experiments and shed light on the ultrafast dynamics of nucleotides.
+
+#### 2.1 Theoretical Vibrational IR Spectra from Time-Correlation Functions
+
+Time-correlation functions and ab initio molecular dynamics in both gas and condensed phases reveal the vibrational IR spectra of uracil and its photo-relaxation intermediates, highlighting solvation effects.
+
+#### 2.2 Umbrella Sampling Free-Energy Study with a Planarity Descriptor
+
+To explain the multiple relaxation timescales observed in uracil intermediates, Siyu Li (University of Oxford) and I designed a molecular planarity descriptor and employed umbrella sampling to construct the free-energy profile of the transition process.
+
+### 3. Nuclear Quantum Effects in Anion Exchange Membrane Fuel Cells
+
+**Supervisor:** Mark E. Tuckerman <br>
+**Keywords:** Electrochemistry · Path Integral Molecular Dynamics (PIMD) · Machine Learning <br>
+
+Anion exchange membrane (AEM) fuel cells promise efficient, flexible energy storage, yet their electrolytes often suffer from limited hydrogen transport. Deep eutectic solvents (DES) offer tunable hydrogen-bond networks and high stability. By pairing PIMD simulations with machine-learning potentials, we efficiently capture nuclear quantum effects (NQE) to screen candidate electrolytes.
+
+### 4. Representation Learning with a Lightweight Convolutional Neural Network
+
+**Supervisor:** Shengjie Wang <br>
+**Keywords:** Machine Learning · Computer Vision · Feature Extraction <br>
+
+Modern vision systems depend on high-quality learned features, and convolutional neural networks (CNNs) provide a powerful way to extract hierarchical image structures. In this project, I developed a lightweight CNN-based autoencoder to learn representations from a fusion image dataset, evaluating performance using reconstruction loss and recognition accuracy. Techniques such as batch normalization, residual connections, self-attention, and data augmentation enhanced the model's results.
+
+This work, completed for the final competition of CSCI-SHU 360 Machine Learning, received a full score and ranked in the top 20%. Code is available on
 <strong style="color: #4b6aa1;">
-  <a href="https://github.com/EasonShi0624/25Spring_Machine_Learning" style="color: #4b6aa1; text-decoration: none;"> Github </a>
+  <a href="https://github.com/EasonShi0624/25Spring_Machine_Learning" style="color: #4b6aa1; text-decoration: none;">GitHub</a>
 </strong>.
 
 
 
-# 📖 Educations
-- *2023.08 - Present*, B.S. in Chemistry with double major in Data Science, New York University Shanghai. <br>
+<span class='anchor' id='education'></span>
+
+# 📖 Education
+
+- *2023.08 – Present* · B.S. in Chemistry with a second major in Data Science, New York University Shanghai <br>
   **Cumulative GPA: 3.984**
 
+<span class='anchor' id='training'></span>
+
 ## Training
-- *2025.07*, **2025 Summer School on Machine Learning and Artificial Intelligence for the Molecular Sciences**, NYU Shanghai.
+
+- *2025.07* · **2025 Summer School on Machine Learning and Artificial Intelligence for the Molecular Sciences** · NYU Shanghai
 
 
+
+<span class='anchor' id='leadership'></span>
 
 # 💻 Leadership & Activities
-- *2023.9-2025.5* **Athelete**, Co-Badminton Team, NYUSH Athletics & Fitness Department.
-- *2023.10-2025.5* **Co-founder & Executive Board Member**, NYUSH Birdy.
-- *2024.5-2025.5* **President**, NYUSH Society in Natural Sciences.
+
+- *2023.09 – 2025.05* · **Athlete**, Co-Badminton Team, NYUSH Athletics & Fitness Department
+- *2023.10 – 2025.05* · **Co-founder & Executive Board Member**, NYUSH Birdy
+- *2024.05 – 2025.05* · **President**, NYUSH Society in Natural Sciences
  
 
 
 
+<span class='anchor' id='honors-and-awards'></span>
+
 # 🎖 Honors and Awards
-- *2023.9* **Violet Scholarship** awarded by NYU Shanghai.
-- *2024.5* **First-Year Fellowship** awarded by NYU Shanghai.
-- *2025.4* **Charting Your Path: Global Awards Leadership Program** awarded by NYU Shanghai.
-- *2025.6* **Deans' Undergraduate Research Fund (DURF)** awarded by NYU Shanghai.
-  - **Project Proposal**: Tuning the Photo-oxidation of the Green Fluorescence Protein (GFP) Chromophore Through Chemical Modifications
-- *2024.6 & 2025.6* **Dean's Honors List** awarded by NYU Shanghai.
+
+- *2023.09* · **Violet Scholarship**, NYU Shanghai
+- *2024.05* · **First-Year Fellowship**, NYU Shanghai
+- *2025.04* · **Charting Your Path: Global Awards Leadership Program**, NYU Shanghai
+- *2025.06* · **Deans' Undergraduate Research Fund (DURF)**, NYU Shanghai  
+  **Project:** Tuning the Photo-oxidation of the Green Fluorescence Protein (GFP) Chromophore Through Chemical Modifications
+- *2024.06 & 2025.06* · **Dean's Honors List**, NYU Shanghai
 
 
 
@@ -114,22 +140,12 @@ This project was for the final competition of CSCI-SHU 360 Machine Learning and 
 Beyond academics, I'm an enthusiast in photography and filming. <br>
 **"Photography is the simultaneous recognition, in a fraction of a second, of the significance of an event." ―― Henri Cartier-Bresson** <br> 
 ## Film
-- *2021.6*
-  <strong style="color: #4b6aa1;">
-  <a href="https://b23.tv/WfBtY3f" style="color: #4b6aa1; text-decoration: none;">Net</a>
-</strong>.
-  (Microfilm) Assistant Camera and Gaffer.
 
-- *2021.9* <strong style="color: #4b6aa1;">
-  <a href="https://b23.tv/UbzZp9l" style="color: #4b6aa1; text-decoration: none;">A Bite of Suzhou: the Clear and Refreshing Gift</a>
-</strong>.
-  (Documentary) Director of Photography.
-  
-- *2022.6* <strong style="color: #4b6aa1;">
-  <a href="https://b23.tv/qwlfICM" style="color: #4b6aa1; text-decoration: none;">Bond with Promise</a>
-</strong>.
- (Music Video) Director, Director of Photography, and Editor.
+- *2021.06* · <strong style="color: #4b6aa1;"><a href="https://b23.tv/WfBtY3f" style="color: #4b6aa1; text-decoration: none;">Net</a></strong> (Microfilm) — Assistant Camera & Gaffer
+- *2021.09* · <strong style="color: #4b6aa1;"><a href="https://b23.tv/UbzZp9l" style="color: #4b6aa1; text-decoration: none;">A Bite of Suzhou: the Clear and Refreshing Gift</a></strong> (Documentary) — Director of Photography
+- *2022.06* · <strong style="color: #4b6aa1;"><a href="https://b23.tv/qwlfICM" style="color: #4b6aa1; text-decoration: none;">Bond with Promise</a></strong> (Music Video) — Director, Director of Photography, & Editor
 
-  
+
 ## Photography
 
+Curating a selection of favorite shots—stay tuned!
