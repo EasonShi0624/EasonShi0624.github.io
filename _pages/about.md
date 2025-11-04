@@ -69,27 +69,27 @@ Nucleotides are fundamental to DNA and RNA, yet prolonged UV exposure can trigge
 
 #### 2.1 Theoretical Vibrational IR Spectra from Time-Correlation Functions
 
-Time-correlation functions and ab initio molecular dynamics in both gas and condensed phases reveal the vibrational IR spectra of uracil and its photo-relaxation intermediates, highlighting solvation effects.
+Time-correlation functions and ab initio molecular dynamics in both gas and condensed phases reveal the vibrational IR spectra of uracil and its photo-relaxation intermediates, highlighting the role of solvation effects in the process.
 
 #### 2.2 Umbrella Sampling Free-Energy Study with a Planarity Descriptor
 
-To explain the multiple relaxation timescales observed in uracil intermediates, Siyu Li (University of Oxford) and I designed a molecular planarity descriptor and employed umbrella sampling to construct the free-energy profile of the transition process.
+To explain the multiple relaxation timescales observed in uracil intermediates, Siyu Li (University of Oxford) and I worked on a molecular planarity descriptor and will employ umbrella sampling to construct the free-energy profile of the transition process.
 
 ### 3. Nuclear Quantum Effects in Anion Exchange Membrane Fuel Cells
 
 **Supervisor:** Mark E. Tuckerman <br>
 **Keywords:** Electrochemistry · Path Integral Molecular Dynamics (PIMD) · Machine Learning <br>
 
-Anion exchange membrane (AEM) fuel cells promise efficient, flexible energy storage, yet their electrolytes often suffer from limited hydrogen transport. Deep eutectic solvents (DES) offer tunable hydrogen-bond networks and high stability. By pairing PIMD simulations with machine-learning potentials, we efficiently capture nuclear quantum effects (NQE) to screen candidate electrolytes.
+Anion exchange membrane (AEM) fuel cells promise efficient and flexible energy storage and conversion, yet their electrolytes often suffer from limited hydrogen transportation. Deep eutectic solvents (DES) offer tunable hydrogen-bond networks and high stability. By pairing PIMD simulations with machine-learning potentials, we efficiently capture nuclear quantum effects (NQE) to screen candidate electrolytes.
 
 ### 4. Representation Learning with a Lightweight Convolutional Neural Network
 
 **Supervisor:** Shengjie Wang <br>
 **Keywords:** Machine Learning · Computer Vision · Feature Extraction <br>
 
-Modern vision systems depend on high-quality learned features, and convolutional neural networks (CNNs) provide a powerful way to extract hierarchical image structures. In this project, I developed a lightweight CNN-based autoencoder to learn representations from a fusion image dataset, evaluating performance using reconstruction loss and recognition accuracy. Techniques such as batch normalization, residual connections, self-attention, and data augmentation enhanced the model's results.
+Modern vision systems depend on high-quality learned features, and convolutional neural networks (CNNs) provide a powerful way to extract hierarchical image structures. In this project, I developed a lightweight CNN-based autoencoder to learn representations from a fusion image dataset, evaluating performance using reconstruction loss and recognition accuracy. Techniques such as batch normalization, residual connections, self-attention, and data augmentation are included to enhanced the performance.
 
-This work, completed for the final competition of CSCI-SHU 360 Machine Learning, received a full score and ranked in the top 20%. Code is available on
+This work was for the final competition of CSCI-SHU 360 Machine Learning. It received a full score and ranked in the top 15%. Code is available on
 <strong style="color: #4b6aa1;">
   <a href="https://github.com/EasonShi0624/25Spring_Machine_Learning" style="color: #4b6aa1; text-decoration: none;">GitHub</a>
 </strong>.
@@ -140,4 +140,3 @@ Beyond academics, I'm an enthusiast in photography and filming. <br>
 
 ## Photography
 
-Curating a selection of favorite shots—stay tuned!
