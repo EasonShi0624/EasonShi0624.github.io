@@ -35,6 +35,7 @@ My current interests center on **developing molecular dynamics (MD) techniques f
 I am actively seeking a PhD position in theoretical/computational chemistry, data science, or computer science for Fall 2027. Fingers crossed!
 
 
+<span class='anchor' id='research'></span>
 # 📝 Research
 
 ## Research Experience
@@ -94,7 +95,7 @@ This work, completed for the final competition of CSCI-SHU 360 Machine Learning,
 </strong>.
 
 
-
+<span class='anchor' id='education'></span>
 # 📖 Education
 
 - *2023.08 – Present* · B.S. in Chemistry with a second major in Data Science, New York University Shanghai <br>
@@ -105,7 +106,7 @@ This work, completed for the final competition of CSCI-SHU 360 Machine Learning,
 - *2025.07* · **2025 Summer School on Machine Learning and Artificial Intelligence for the Molecular Sciences** · NYU Shanghai
 
 
-
+<span class='anchor' id='leadership'></span>
 # 💻 Leadership & Activities
 
 - *2023.09 – 2025.05* · **Athlete**, Co-Badminton Team, NYUSH Athletics & Fitness Department
@@ -114,7 +115,7 @@ This work, completed for the final competition of CSCI-SHU 360 Machine Learning,
  
 
 
-
+<span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
 
 - *2023.09* · **Violet Scholarship**, NYU Shanghai
@@ -126,6 +127,7 @@ This work, completed for the final competition of CSCI-SHU 360 Machine Learning,
 
 
 
+<span class='anchor' id='gallery'></span>
 # 📸 Gallery
 Beyond academics, I'm an enthusiast in photography and filming. <br>
 **"Photography is the simultaneous recognition, in a fraction of a second, of the significance of an event." ―― Henri Cartier-Bresson** <br> 
