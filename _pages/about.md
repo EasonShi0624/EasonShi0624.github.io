@@ -67,7 +67,7 @@ To understand the reason for multiple timescales of uracil intermediate relaxati
 ### 3. Nuclear Quantum Effects in Designing Anion Exchange Membrane Fuel Cell Electrolytes based on Deep Eutectic Solvents
 **Supervisor: Mark E. Tuckerman** <br>
 **Keyword: Electrochemistry; Path Integral Molecular Dynamics (PIMD); Machine Learning** <br>
-
+Anion exchange membrane (AEM) fuel cell is a promising next-generation energy storage devices with its high efficiency, low cost, and fuel flexibility. However, the hydrogen transportation effiencicy of the electrolytes is a crucial obstable in practice. Deep eutectic solvents (DES) offer tunable hydrogen-bond networks and high chemical stability. To screening candidate electrolytes, we combined path-integral molecular dynamics (PIMD) with machine learning potential to efficiently capture the neuclear quantum effects (NQE).
 
 ### 4. Representation Learning of Images with Light-weight Convolutional Neural Network (CNN) 
 **Supervisor: Shengjie Wang** <br>
@@ -76,7 +76,7 @@ Modern vision systems rely on the quality of their learned features and Convolut
 
 In this project, I utilized a light-weight CNN based autoencoder to learn representations of a fusion image dataset for a task evaluated by reconstruction loss and recognition accuracy. Multiple techniques such as batch-norm, residue connection, self-attention, and data augmentation are used are improving model performance. <br>
 
-This project was for the final competition of CSCI-SHU 360 Machine Learning and achieved a full score eventually. Codes are available on 
+This project was for the final competition of CSCI-SHU 360 Machine Learning and achieved a full score ranking top 20%. Codes are available on 
 <strong style="color: #4b6aa1;">
   <a href="https://github.com/EasonShi0624/25Spring_Machine_Learning" style="color: #4b6aa1; text-decoration: none;"> Github </a>
 </strong>.
