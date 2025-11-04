@@ -168,6 +168,24 @@ To keep the home page lightweight, here are a few highlights from recent shoots.
   <li><a href="/photography/#zhoushan">Zhoushan, Zhejiang, China (2024.4)</a></li>
 </ul>
 
+<div class="photo-gallery">
+  <p class="photo-gallery__title">Island tides meeting morning mist.</p>
+  <div class="photo-grid">
+    <figure class="photo-card">
+      <img src="/photography/zhoushan/zhoushan_1.jpg" alt="Zhoushan island breeze 1">
+      <figcaption>Zhoushan · Tide 1</figcaption>
+    </figure>
+    <figure class="photo-card">
+      <img src="/photography/zhoushan/zhoushan_2.jpg" alt="Zhoushan island breeze 2">
+      <figcaption>Zhoushan · Tide 2</figcaption>
+    </figure>
+    <figure class="photo-card">
+      <img src="/photography/zhoushan/zhoushan_3.jpg" alt="Zhoushan island breeze 3">
+      <figcaption>Zhoushan · Tide 3</figcaption>
+    </figure>
+  </div>
+</div>
+
 
 
 
