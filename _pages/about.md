@@ -137,19 +137,36 @@ Beyond academics, I'm an enthusiast in photography and filming. <br>
 - *2022.06* · <strong style="color: #4b6aa1;"><a href="https://b23.tv/qwlfICM" style="color: #4b6aa1; text-decoration: none;">Bond with Promise</a></strong> (Music Video) — Director, Director of Photography, & Editor
 
 ## Photography
-### Hong Kong, China. (2024.12)
+To keep the home page lightweight, here are a few highlights from recent shoots. Dive into the full stories on the dedicated [photography portfolio](/photography/).
 
-### Nanjing, Jiangsu, China. (2023.10)
+<div class="photo-gallery photo-gallery--preview">
+  <p class="photo-gallery__title">A rotating trio of frames from Hong Kong, Yunnan, and Zhejiang.</p>
+  <div class="photo-grid">
+    <figure class="photo-card">
+      <img src="/photography/hongkong/hk3.jpg" alt="A night view of Hong Kong's skyline">
+      <figcaption>Hong Kong · Harbor Glow</figcaption>
+    </figure>
+    <figure class="photo-card">
+      <img src="/photography/kunming&amp;dali/dali2.jpg" alt="Sunrise over the water in Dali">
+      <figcaption>Kunming &amp; Dali · Sunrise Stillness</figcaption>
+    </figure>
+    <figure class="photo-card">
+      <img src="/photography/zhoushan/zhoushan_2.jpg" alt="Misty cliffs in Zhoushan">
+      <figcaption>Zhoushan · Morning Mist</figcaption>
+    </figure>
+  </div>
+</div>
 
-### New York, United States. (2025.11)
-
-### Kunming & Dali, Yunan, China. (2025.3)
-
-### Qingdao & Weihai, Shandong, China. (2023.7)
-
-### Suzhou, Jiangsu, China. (2021.3-2022.11)
-
-### Zhoushan, Zhejiang, China. (2024.4)
+<h4 class="photo-section__heading">Featured Destinations</h4>
+<ul class="photo-album-links">
+  <li><a href="/photography/#hong-kong">Hong Kong, China (2024.12)</a></li>
+  <li><a href="/photography/#nanjing">Nanjing, Jiangsu, China (2023.10)</a></li>
+  <li><a href="/photography/#new-york">New York, United States (2025.11)</a></li>
+  <li><a href="/photography/#kunming-dali">Kunming &amp; Dali, Yunnan, China (2025.3)</a></li>
+  <li><a href="/photography/#qingdao-weihai">Qingdao &amp; Weihai, Shandong, China (2023.7)</a></li>
+  <li><a href="/photography/#suzhou">Suzhou, Jiangsu, China (2021.3–2022.11)</a></li>
+  <li><a href="/photography/#zhoushan">Zhoushan, Zhejiang, China (2024.4)</a></li>
+</ul>
 
 
 
