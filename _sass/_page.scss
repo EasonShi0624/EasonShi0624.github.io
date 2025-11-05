@@ -229,6 +229,17 @@
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
+.photo-card__link {
+  display: block;
+  position: relative;
+  border-radius: inherit;
+}
+
+.photo-card__link:focus-visible {
+  outline: 3px solid #4b6aa1;
+  outline-offset: 2px;
+}
+
 .photo-card img {
   display: block;
   width: 100%;
@@ -242,7 +253,8 @@
   box-shadow: 0 12px 32px rgba(31, 45, 61, 0.12);
 }
 
-.photo-card:hover img {
+.photo-card:hover img,
+.photo-card:focus-within img {
   transform: scale(1.05);
 }
 
@@ -258,6 +270,7 @@
   letter-spacing: 0.02em;
   opacity: 0;
   transition: opacity 0.3s ease;
+  pointer-events: none;
 }
 
 .photo-card:hover figcaption,

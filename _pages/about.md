@@ -143,87 +143,129 @@ Beyond academics, I'm an enthusiast in photography and filming. <br>
   <p class="photo-gallery__title">Neon nights and harborside horizons.</p>
   <div class="photo-grid">
     <figure class="photo-card">
-      <img src="/photography/hongkong/hk1.jpg" alt="Hong Kong scene 1">
+      <a href="/photography/hongkong/hk1.jpg" class="photo-card__link">
+        <img src="/photography/hongkong/hk1.jpg" alt="Hong Kong scene 1">
+      </a>
       <figcaption>Hong Kong · Frame 1</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/hongkong/hk2.jpg" alt="Hong Kong scene 2">
+      <a href="/photography/hongkong/hk2.jpg" class="photo-card__link">
+        <img src="/photography/hongkong/hk2.jpg" alt="Hong Kong scene 2">
+      </a>
       <figcaption>Hong Kong · Frame 2</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/hongkong/hk3.jpg" alt="Hong Kong scene 3">
+      <a href="/photography/hongkong/hk3.jpg" class="photo-card__link">
+        <img src="/photography/hongkong/hk3.jpg" alt="Hong Kong scene 3">
+      </a>
       <figcaption>Hong Kong · Frame 3</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/hongkong/hk4.jpg" alt="Hong Kong scene 4">
+      <a href="/photography/hongkong/hk4.jpg" class="photo-card__link">
+        <img src="/photography/hongkong/hk4.jpg" alt="Hong Kong scene 4">
+      </a>
       <figcaption>Hong Kong · Frame 4</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/hongkong/hk5.jpg" alt="Hong Kong scene 5">
+      <a href="/photography/hongkong/hk5.jpg" class="photo-card__link">
+        <img src="/photography/hongkong/hk5.jpg" alt="Hong Kong scene 5">
+      </a>
       <figcaption>Hong Kong · Frame 5</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/hongkong/hk6.jpg" alt="Hong Kong scene 6">
+      <a href="/photography/hongkong/hk6.jpg" class="photo-card__link">
+        <img src="/photography/hongkong/hk6.jpg" alt="Hong Kong scene 6">
+      </a>
       <figcaption>Hong Kong · Frame 6</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/hongkong/hk7.jpg" alt="Hong Kong scene 7">
+      <a href="/photography/hongkong/hk7.jpg" class="photo-card__link">
+        <img src="/photography/hongkong/hk7.jpg" alt="Hong Kong scene 7">
+      </a>
       <figcaption>Hong Kong · Frame 7</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/hongkong/hk8.jpg" alt="Hong Kong scene 8">
+      <a href="/photography/hongkong/hk8.jpg" class="photo-card__link">
+        <img src="/photography/hongkong/hk8.jpg" alt="Hong Kong scene 8">
+      </a>
       <figcaption>Hong Kong · Frame 8</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/hongkong/hk9.jpg" alt="Hong Kong scene 9">
+      <a href="/photography/hongkong/hk9.jpg" class="photo-card__link">
+        <img src="/photography/hongkong/hk9.jpg" alt="Hong Kong scene 9">
+      </a>
       <figcaption>Hong Kong · Frame 9</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/hongkong/hk10.jpg" alt="Hong Kong scene 10">
+      <a href="/photography/hongkong/hk10.jpg" class="photo-card__link">
+        <img src="/photography/hongkong/hk10.jpg" alt="Hong Kong scene 10">
+      </a>
       <figcaption>Hong Kong · Frame 10</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/hongkong/hk11.jpg" alt="Hong Kong scene 11">
+      <a href="/photography/hongkong/hk11.jpg" class="photo-card__link">
+        <img src="/photography/hongkong/hk11.jpg" alt="Hong Kong scene 11">
+      </a>
       <figcaption>Hong Kong · Frame 11</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/hongkong/hk12.jpg" alt="Hong Kong scene 12">
+      <a href="/photography/hongkong/hk12.jpg" class="photo-card__link">
+        <img src="/photography/hongkong/hk12.jpg" alt="Hong Kong scene 12">
+      </a>
       <figcaption>Hong Kong · Frame 12</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/hongkong/hk13.jpg" alt="Hong Kong scene 13">
+      <a href="/photography/hongkong/hk13.jpg" class="photo-card__link">
+        <img src="/photography/hongkong/hk13.jpg" alt="Hong Kong scene 13">
+      </a>
       <figcaption>Hong Kong · Frame 13</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/hongkong/hk14.jpg" alt="Hong Kong scene 14">
+      <a href="/photography/hongkong/hk14.jpg" class="photo-card__link">
+        <img src="/photography/hongkong/hk14.jpg" alt="Hong Kong scene 14">
+      </a>
       <figcaption>Hong Kong · Frame 14</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/hongkong/hk15.jpg" alt="Hong Kong scene 15">
+      <a href="/photography/hongkong/hk15.jpg" class="photo-card__link">
+        <img src="/photography/hongkong/hk15.jpg" alt="Hong Kong scene 15">
+      </a>
       <figcaption>Hong Kong · Frame 15</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/hongkong/hk16.jpg" alt="Hong Kong scene 16">
+      <a href="/photography/hongkong/hk16.jpg" class="photo-card__link">
+        <img src="/photography/hongkong/hk16.jpg" alt="Hong Kong scene 16">
+      </a>
       <figcaption>Hong Kong · Frame 16</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/hongkong/hk17.jpg" alt="Hong Kong scene 17">
+      <a href="/photography/hongkong/hk17.jpg" class="photo-card__link">
+        <img src="/photography/hongkong/hk17.jpg" alt="Hong Kong scene 17">
+      </a>
       <figcaption>Hong Kong · Frame 17</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/hongkong/hk18.jpg" alt="Hong Kong scene 18">
+      <a href="/photography/hongkong/hk18.jpg" class="photo-card__link">
+        <img src="/photography/hongkong/hk18.jpg" alt="Hong Kong scene 18">
+      </a>
       <figcaption>Hong Kong · Frame 18</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/hongkong/hk19.jpg" alt="Hong Kong scene 19">
+      <a href="/photography/hongkong/hk19.jpg" class="photo-card__link">
+        <img src="/photography/hongkong/hk19.jpg" alt="Hong Kong scene 19">
+      </a>
       <figcaption>Hong Kong · Frame 19</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/hongkong/hk20.jpg" alt="Hong Kong scene 20">
+      <a href="/photography/hongkong/hk20.jpg" class="photo-card__link">
+        <img src="/photography/hongkong/hk20.jpg" alt="Hong Kong scene 20">
+      </a>
       <figcaption>Hong Kong · Frame 20</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/hongkong/hk21.jpg" alt="Hong Kong scene 21">
+      <a href="/photography/hongkong/hk21.jpg" class="photo-card__link">
+        <img src="/photography/hongkong/hk21.jpg" alt="Hong Kong scene 21">
+      </a>
       <figcaption>Hong Kong · Frame 21</figcaption>
     </figure>
   </div>
@@ -235,15 +277,21 @@ Beyond academics, I'm an enthusiast in photography and filming. <br>
   <p class="photo-gallery__title">Autumn tones along the ancient walls.</p>
   <div class="photo-grid">
     <figure class="photo-card">
-      <img src="/photography/nanjing/nanjing_1.jpg" alt="Nanjing city scene 1">
+      <a href="/photography/nanjing/nanjing_1.jpg" class="photo-card__link">
+        <img src="/photography/nanjing/nanjing_1.jpg" alt="Nanjing city scene 1">
+      </a>
       <figcaption>Nanjing · Moment 1</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/nanjing/nanjing_2.jpg" alt="Nanjing city scene 2">
+      <a href="/photography/nanjing/nanjing_2.jpg" class="photo-card__link">
+        <img src="/photography/nanjing/nanjing_2.jpg" alt="Nanjing city scene 2">
+      </a>
       <figcaption>Nanjing · Moment 2</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/nanjing/nanjing_3.jpg" alt="Nanjing city scene 3">
+      <a href="/photography/nanjing/nanjing_3.jpg" class="photo-card__link">
+        <img src="/photography/nanjing/nanjing_3.jpg" alt="Nanjing city scene 3">
+      </a>
       <figcaption>Nanjing · Moment 3</figcaption>
     </figure>
   </div>
@@ -261,27 +309,39 @@ Beyond academics, I'm an enthusiast in photography and filming. <br>
   <p class="photo-gallery__title">Highland light and serene lakeside mornings.</p>
   <div class="photo-grid">
     <figure class="photo-card">
-      <img src="/photography/kunming&amp;dali/dali1.jpg" alt="Kunming and Dali snapshot 1">
+      <a href="/photography/kunming&amp;dali/dali1.jpg" class="photo-card__link">
+        <img src="/photography/kunming&amp;dali/dali1.jpg" alt="Kunming and Dali snapshot 1">
+      </a>
       <figcaption>Kunming &amp; Dali · Story 1</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/kunming&amp;dali/dali2.jpg" alt="Kunming and Dali snapshot 2">
+      <a href="/photography/kunming&amp;dali/dali2.jpg" class="photo-card__link">
+        <img src="/photography/kunming&amp;dali/dali2.jpg" alt="Kunming and Dali snapshot 2">
+      </a>
       <figcaption>Kunming &amp; Dali · Story 2</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/kunming&amp;dali/dali3.jpg" alt="Kunming and Dali snapshot 3">
+      <a href="/photography/kunming&amp;dali/dali3.jpg" class="photo-card__link">
+        <img src="/photography/kunming&amp;dali/dali3.jpg" alt="Kunming and Dali snapshot 3">
+      </a>
       <figcaption>Kunming &amp; Dali · Story 3</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/kunming&amp;dali/dali4.jpg" alt="Kunming and Dali snapshot 4">
+      <a href="/photography/kunming&amp;dali/dali4.jpg" class="photo-card__link">
+        <img src="/photography/kunming&amp;dali/dali4.jpg" alt="Kunming and Dali snapshot 4">
+      </a>
       <figcaption>Kunming &amp; Dali · Story 4</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/kunming&amp;dali/dali5.jpg" alt="Kunming and Dali snapshot 5">
+      <a href="/photography/kunming&amp;dali/dali5.jpg" class="photo-card__link">
+        <img src="/photography/kunming&amp;dali/dali5.jpg" alt="Kunming and Dali snapshot 5">
+      </a>
       <figcaption>Kunming &amp; Dali · Story 5</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/kunming&amp;dali/dali6.jpg" alt="Kunming and Dali snapshot 6">
+      <a href="/photography/kunming&amp;dali/dali6.jpg" class="photo-card__link">
+        <img src="/photography/kunming&amp;dali/dali6.jpg" alt="Kunming and Dali snapshot 6">
+      </a>
       <figcaption>Kunming &amp; Dali · Story 6</figcaption>
     </figure>
   </div>
@@ -293,31 +353,45 @@ Beyond academics, I'm an enthusiast in photography and filming. <br>
   <p class="photo-gallery__title">Sea breezes and coastal skylines.</p>
   <div class="photo-grid">
     <figure class="photo-card">
-      <img src="/photography/qingdao&amp;weihai/qingdao_1.jpg" alt="Qingdao and Weihai coastal view 1">
+      <a href="/photography/qingdao&amp;weihai/qingdao_1.jpg" class="photo-card__link">
+        <img src="/photography/qingdao&amp;weihai/qingdao_1.jpg" alt="Qingdao and Weihai coastal view 1">
+      </a>
       <figcaption>Qingdao &amp; Weihai · Wave 1</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/qingdao&amp;weihai/qingdao_2.jpg" alt="Qingdao and Weihai coastal view 2">
+      <a href="/photography/qingdao&amp;weihai/qingdao_2.jpg" class="photo-card__link">
+        <img src="/photography/qingdao&amp;weihai/qingdao_2.jpg" alt="Qingdao and Weihai coastal view 2">
+      </a>
       <figcaption>Qingdao &amp; Weihai · Wave 2</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/qingdao&amp;weihai/qingdao_3.jpg" alt="Qingdao and Weihai coastal view 3">
+      <a href="/photography/qingdao&amp;weihai/qingdao_3.jpg" class="photo-card__link">
+        <img src="/photography/qingdao&amp;weihai/qingdao_3.jpg" alt="Qingdao and Weihai coastal view 3">
+      </a>
       <figcaption>Qingdao &amp; Weihai · Wave 3</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/qingdao&amp;weihai/qingdao_4.jpg" alt="Qingdao and Weihai coastal view 4">
+      <a href="/photography/qingdao&amp;weihai/qingdao_4.jpg" class="photo-card__link">
+        <img src="/photography/qingdao&amp;weihai/qingdao_4.jpg" alt="Qingdao and Weihai coastal view 4">
+      </a>
       <figcaption>Qingdao &amp; Weihai · Wave 4</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/qingdao&amp;weihai/qingdao_5.jpg" alt="Qingdao and Weihai coastal view 5">
+      <a href="/photography/qingdao&amp;weihai/qingdao_5.jpg" class="photo-card__link">
+        <img src="/photography/qingdao&amp;weihai/qingdao_5.jpg" alt="Qingdao and Weihai coastal view 5">
+      </a>
       <figcaption>Qingdao &amp; Weihai · Wave 5</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/qingdao&amp;weihai/qingdao_6.jpg" alt="Qingdao and Weihai coastal view 6">
+      <a href="/photography/qingdao&amp;weihai/qingdao_6.jpg" class="photo-card__link">
+        <img src="/photography/qingdao&amp;weihai/qingdao_6.jpg" alt="Qingdao and Weihai coastal view 6">
+      </a>
       <figcaption>Qingdao &amp; Weihai · Wave 6</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/qingdao&amp;weihai/qingdao_7.jpg" alt="Qingdao and Weihai coastal view 7">
+      <a href="/photography/qingdao&amp;weihai/qingdao_7.jpg" class="photo-card__link">
+        <img src="/photography/qingdao&amp;weihai/qingdao_7.jpg" alt="Qingdao and Weihai coastal view 7">
+      </a>
       <figcaption>Qingdao &amp; Weihai · Wave 7</figcaption>
     </figure>
   </div>
@@ -329,27 +403,39 @@ Beyond academics, I'm an enthusiast in photography and filming. <br>
   <p class="photo-gallery__title">Water towns and quiet alleyways.</p>
   <div class="photo-grid">
     <figure class="photo-card">
-      <img src="/photography/suzhou/2021.3_1.jpg" alt="Suzhou water town memory 1">
+      <a href="/photography/suzhou/2021.3_1.jpg" class="photo-card__link">
+        <img src="/photography/suzhou/2021.3_1.jpg" alt="Suzhou water town memory 1">
+      </a>
       <figcaption>Suzhou · Memory 1</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/suzhou/2022.9_1.jpg" alt="Suzhou water town memory 2">
+      <a href="/photography/suzhou/2022.9_1.jpg" class="photo-card__link">
+        <img src="/photography/suzhou/2022.9_1.jpg" alt="Suzhou water town memory 2">
+      </a>
       <figcaption>Suzhou · Memory 2</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/suzhou/2022.9_2.jpg" alt="Suzhou water town memory 3">
+      <a href="/photography/suzhou/2022.9_2.jpg" class="photo-card__link">
+        <img src="/photography/suzhou/2022.9_2.jpg" alt="Suzhou water town memory 3">
+      </a>
       <figcaption>Suzhou · Memory 3</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/suzhou/2022.9_3.jpg" alt="Suzhou water town memory 4">
+      <a href="/photography/suzhou/2022.9_3.jpg" class="photo-card__link">
+        <img src="/photography/suzhou/2022.9_3.jpg" alt="Suzhou water town memory 4">
+      </a>
       <figcaption>Suzhou · Memory 4</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/suzhou/2022.9_4.jpg" alt="Suzhou water town memory 5">
+      <a href="/photography/suzhou/2022.9_4.jpg" class="photo-card__link">
+        <img src="/photography/suzhou/2022.9_4.jpg" alt="Suzhou water town memory 5">
+      </a>
       <figcaption>Suzhou · Memory 5</figcaption>
     </figure>
     <figure class="photo-card">
-      <img src="/photography/suzhou/2022.10_1.jpg" alt="Suzhou water town memory 6">
+      <a href="/photography/suzhou/2022.10_1.jpg" class="photo-card__link">
+        <img src="/photography/suzhou/2022.10_1.jpg" alt="Suzhou water town memory 6">
+      </a>
       <figcaption>Suzhou · Memory 6</figcaption>
     </figure>
   </div>
@@ -360,18 +446,24 @@ Beyond academics, I'm an enthusiast in photography and filming. <br>
 <div class="photo-gallery">
   <p class="photo-gallery__title">Island tides meeting morning mist.</p>
   <div class="photo-grid">
-    <figure class="photo-card">
-      <img src="/photography/zhoushan/zhoushan_1.jpg" alt="Zhoushan island breeze 1">
-      <figcaption>Zhoushan · Tide 1</figcaption>
-    </figure>
-    <figure class="photo-card">
-      <img src="/photography/zhoushan/zhoushan_2.jpg" alt="Zhoushan island breeze 2">
-      <figcaption>Zhoushan · Tide 2</figcaption>
-    </figure>
-    <figure class="photo-card">
-      <img src="/photography/zhoushan/zhoushan_3.jpg" alt="Zhoushan island breeze 3">
-      <figcaption>Zhoushan · Tide 3</figcaption>
-    </figure>
+      <figure class="photo-card">
+        <a href="/photography/zhoushan/zhoushan_1.jpg" class="photo-card__link">
+          <img src="/photography/zhoushan/zhoushan_1.jpg" alt="Zhoushan island breeze 1">
+        </a>
+        <figcaption>Zhoushan · Tide 1</figcaption>
+      </figure>
+      <figure class="photo-card">
+        <a href="/photography/zhoushan/zhoushan_2.jpg" class="photo-card__link">
+          <img src="/photography/zhoushan/zhoushan_2.jpg" alt="Zhoushan island breeze 2">
+        </a>
+        <figcaption>Zhoushan · Tide 2</figcaption>
+      </figure>
+      <figure class="photo-card">
+        <a href="/photography/zhoushan/zhoushan_3.jpg" class="photo-card__link">
+          <img src="/photography/zhoushan/zhoushan_3.jpg" alt="Zhoushan island breeze 3">
+        </a>
+        <figcaption>Zhoushan · Tide 3</figcaption>
+      </figure>
   </div>
 </div>
 
