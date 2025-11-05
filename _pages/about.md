@@ -376,6 +376,125 @@ Beyond academics, I'm an enthusiast in photography and filming. <br>
 </div>
 
 
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var photoCards = Array.prototype.slice.call(document.querySelectorAll('.photo-gallery .photo-card'));
+
+  if (!photoCards.length) {
+    return;
+  }
+
+  var lightbox = document.createElement('div');
+  lightbox.className = 'photo-lightbox';
+  lightbox.setAttribute('role', 'dialog');
+  lightbox.setAttribute('aria-modal', 'true');
+  lightbox.setAttribute('aria-label', 'Expanded photograph');
+  lightbox.setAttribute('aria-hidden', 'true');
+  lightbox.setAttribute('tabindex', '-1');
+  lightbox.innerHTML = '' +
+    '<div class="photo-lightbox__body">' +
+      '<button class="photo-lightbox__close" type="button" aria-label="Close expanded photograph">' +
+        '<span aria-hidden="true">&times;</span>' +
+      '</button>' +
+      '<img class="photo-lightbox__image" alt="">' +
+      '<p class="photo-lightbox__caption"></p>' +
+    '</div>';
+
+  document.body.appendChild(lightbox);
+
+  var lightboxImage = lightbox.querySelector('.photo-lightbox__image');
+  var lightboxCaption = lightbox.querySelector('.photo-lightbox__caption');
+  var closeButton = lightbox.querySelector('.photo-lightbox__close');
+  var previousActiveElement = null;
+
+  var closeLightbox = function () {
+    if (!lightbox.classList.contains('photo-lightbox--active')) {
+      return;
+    }
+
+    lightbox.classList.remove('photo-lightbox--active');
+    lightbox.setAttribute('aria-hidden', 'true');
+    lightboxImage.removeAttribute('src');
+    document.body.classList.remove('has-photo-lightbox');
+
+    if (previousActiveElement && typeof previousActiveElement.focus === 'function') {
+      previousActiveElement.focus();
+    }
+  };
+
+  var openLightbox = function (card) {
+    var img = card.querySelector('img');
+
+    if (!img) {
+      return;
+    }
+
+    var caption = card.querySelector('figcaption');
+    var captionText = caption ? caption.textContent.trim() : '';
+    var source = img.currentSrc || img.src;
+
+    previousActiveElement = document.activeElement;
+    lightboxImage.src = source;
+    lightboxImage.alt = img.alt || captionText || 'Expanded photograph';
+    lightboxCaption.textContent = captionText;
+    lightbox.classList.add('photo-lightbox--active');
+    lightbox.setAttribute('aria-hidden', 'false');
+    document.body.classList.add('has-photo-lightbox');
+
+    window.requestAnimationFrame(function () {
+      closeButton.focus();
+    });
+  };
+
+  photoCards.forEach(function (card) {
+    var img = card.querySelector('img');
+
+    if (!img) {
+      return;
+    }
+
+    var caption = card.querySelector('figcaption');
+    var captionText = caption ? caption.textContent.trim() : '';
+    var labelText = captionText ?
+      'View larger version of ' + captionText :
+      'View larger version of ' + (img.alt || 'this photograph');
+
+    card.classList.add('photo-card--interactive');
+    card.setAttribute('tabindex', '0');
+    card.setAttribute('role', 'button');
+    card.setAttribute('aria-haspopup', 'dialog');
+    card.setAttribute('aria-label', labelText);
+
+    card.addEventListener('click', function (event) {
+      event.preventDefault();
+      openLightbox(card);
+    });
+
+    card.addEventListener('keydown', function (event) {
+      if (event.key === 'Enter' || event.key === ' ') {
+        event.preventDefault();
+        openLightbox(card);
+      }
+    });
+  });
+
+  closeButton.addEventListener('click', closeLightbox);
+
+  lightbox.addEventListener('click', function (event) {
+    if (event.target === lightbox) {
+      closeLightbox();
+    }
+  });
+
+  document.addEventListener('keydown', function (event) {
+    if (event.key === 'Escape') {
+      closeLightbox();
+    }
+  });
+});
+</script>
+
+
 
 
 
