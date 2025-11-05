@@ -129,7 +129,7 @@ This work was for the final competition of CSCI-SHU 360 Machine Learning. It rec
 
 <span class='anchor' id='gallery'></span>
 # 📸 Gallery
-Beyond academics, I'm an enthusiast in photography and filming. <br>
+Beyond academics, I'm an enthusiast in photography and filming. Emotions and feelings fleet away easily, but images live.<br>
 **"Photography is the simultaneous recognition, in a fraction of a second, of the significance of an event." ―― Henri Cartier-Bresson** <br> 
 ## Film
 - *2021.06* · <strong style="color: #4b6aa1;"><a href="https://b23.tv/WfBtY3f" style="color: #4b6aa1; text-decoration: none;">Net</a></strong> (Microfilm) — Assistant Camera & Scriptwriter
@@ -140,19 +140,19 @@ Beyond academics, I'm an enthusiast in photography and filming. <br>
 ### Hong Kong, China. (2024.12)
 
 <div class="photo-gallery">
-  <p class="photo-gallery__title">Neon nights and harborside horizons.</p>
+  <p class="photo-gallery__title">Crossroad of the east and the west. The Queen's Rd. East under gloom of modernization.</p>
   <div class="photo-grid">
     <figure class="photo-card">
       <a href="/photography/hongkong/hk1.jpg" class="photo-card__link">
         <img src="/photography/hongkong/hk1.jpg" alt="Hong Kong scene 1">
       </a>
-      <figcaption>Hong Kong · Frame 1</figcaption>
+      <figcaption>Hong Kong · Frame 1 · Iron Curtain</figcaption>
     </figure>
     <figure class="photo-card">
       <a href="/photography/hongkong/hk2.jpg" class="photo-card__link">
         <img src="/photography/hongkong/hk2.jpg" alt="Hong Kong scene 2">
       </a>
-      <figcaption>Hong Kong · Frame 2</figcaption>
+      <figcaption>Hong Kong · Frame 2 · My Friend Rudolph</figcaption>
     </figure>
     <figure class="photo-card">
       <a href="/photography/hongkong/hk3.jpg" class="photo-card__link">
@@ -274,25 +274,25 @@ Beyond academics, I'm an enthusiast in photography and filming. <br>
 ### Nanjing, Jiangsu, China. (2023.10)
 
 <div class="photo-gallery">
-  <p class="photo-gallery__title">Autumn tones along the ancient walls.</p>
+  <p class="photo-gallery__title">One of the ancient capticals of China.</p>
   <div class="photo-grid">
     <figure class="photo-card">
       <a href="/photography/nanjing/nanjing_1.jpg" class="photo-card__link">
         <img src="/photography/nanjing/nanjing_1.jpg" alt="Nanjing city scene 1">
       </a>
-      <figcaption>Nanjing · Moment 1</figcaption>
+      <figcaption>Nanjing · Frame 1</figcaption>
     </figure>
     <figure class="photo-card">
       <a href="/photography/nanjing/nanjing_2.jpg" class="photo-card__link">
         <img src="/photography/nanjing/nanjing_2.jpg" alt="Nanjing city scene 2">
       </a>
-      <figcaption>Nanjing · Moment 2</figcaption>
+      <figcaption>Nanjing · Frame 2</figcaption>
     </figure>
     <figure class="photo-card">
       <a href="/photography/nanjing/nanjing_3.jpg" class="photo-card__link">
         <img src="/photography/nanjing/nanjing_3.jpg" alt="Nanjing city scene 3">
       </a>
-      <figcaption>Nanjing · Moment 3</figcaption>
+      <figcaption>Nanjing · Frame 3</figcaption>
     </figure>
   </div>
 </div>
@@ -300,49 +300,49 @@ Beyond academics, I'm an enthusiast in photography and filming. <br>
 ### New York, United States. (2025.11)
 
 <div class="photo-gallery">
-  <p class="photo-gallery__title">Stay tuned—New York frames are on the way.</p>
+  <p class="photo-gallery__title">Will be uploaded soon.</p>
 </div>
 
-### Kunming &amp; Dali, Yunan, China. (2025.3)
+### Dali, Yunan, China. (2025.3)
 
 <div class="photo-gallery">
-  <p class="photo-gallery__title">Highland light and serene lakeside mornings.</p>
+  <p class="photo-gallery__title"> A tranquil mountain city in southern China retaining traditional minority cultures. Famous for coffee and tea.</p>
   <div class="photo-grid">
     <figure class="photo-card">
       <a href="/photography/kunming&amp;dali/dali1.jpg" class="photo-card__link">
         <img src="/photography/kunming&amp;dali/dali1.jpg" alt="Kunming and Dali snapshot 1">
       </a>
-      <figcaption>Kunming &amp; Dali · Story 1</figcaption>
+      <figcaption> Dali · Frame 1</figcaption>
     </figure>
     <figure class="photo-card">
       <a href="/photography/kunming&amp;dali/dali2.jpg" class="photo-card__link">
         <img src="/photography/kunming&amp;dali/dali2.jpg" alt="Kunming and Dali snapshot 2">
       </a>
-      <figcaption>Kunming &amp; Dali · Story 2</figcaption>
+      <figcaption> Dali · Frame 2 · Three Primary Colors</figcaption>
     </figure>
     <figure class="photo-card">
       <a href="/photography/kunming&amp;dali/dali3.jpg" class="photo-card__link">
         <img src="/photography/kunming&amp;dali/dali3.jpg" alt="Kunming and Dali snapshot 3">
       </a>
-      <figcaption>Kunming &amp; Dali · Story 3</figcaption>
+      <figcaption> Dali · Frame 3</figcaption>
     </figure>
     <figure class="photo-card">
       <a href="/photography/kunming&amp;dali/dali4.jpg" class="photo-card__link">
         <img src="/photography/kunming&amp;dali/dali4.jpg" alt="Kunming and Dali snapshot 4">
       </a>
-      <figcaption>Kunming &amp; Dali · Story 4</figcaption>
+      <figcaption> Dali · Frame 4</figcaption>
     </figure>
     <figure class="photo-card">
       <a href="/photography/kunming&amp;dali/dali5.jpg" class="photo-card__link">
         <img src="/photography/kunming&amp;dali/dali5.jpg" alt="Kunming and Dali snapshot 5">
       </a>
-      <figcaption>Kunming &amp; Dali · Story 5</figcaption>
+      <figcaption> Dali · Frame 5</figcaption>
     </figure>
     <figure class="photo-card">
       <a href="/photography/kunming&amp;dali/dali6.jpg" class="photo-card__link">
         <img src="/photography/kunming&amp;dali/dali6.jpg" alt="Kunming and Dali snapshot 6">
       </a>
-      <figcaption>Kunming &amp; Dali · Story 6</figcaption>
+      <figcaption> Dali · Frame 6</figcaption>
     </figure>
   </div>
 </div>
@@ -350,49 +350,49 @@ Beyond academics, I'm an enthusiast in photography and filming. <br>
 ### Qingdao &amp; Weihai, Shandong, China. (2023.7)
 
 <div class="photo-gallery">
-  <p class="photo-gallery__title">Sea breezes and coastal skylines.</p>
+  <p class="photo-gallery__title">Two beautiful cities on the east coast of northern China. Sea breezes and coastal skylines.</p>
   <div class="photo-grid">
     <figure class="photo-card">
       <a href="/photography/qingdao&amp;weihai/qingdao_1.jpg" class="photo-card__link">
         <img src="/photography/qingdao&amp;weihai/qingdao_1.jpg" alt="Qingdao and Weihai coastal view 1">
       </a>
-      <figcaption>Qingdao &amp; Weihai · Wave 1</figcaption>
+      <figcaption>Qingdao · Frame 1</figcaption>
     </figure>
     <figure class="photo-card">
       <a href="/photography/qingdao&amp;weihai/qingdao_2.jpg" class="photo-card__link">
         <img src="/photography/qingdao&amp;weihai/qingdao_2.jpg" alt="Qingdao and Weihai coastal view 2">
       </a>
-      <figcaption>Qingdao &amp; Weihai · Wave 2</figcaption>
+      <figcaption>Qingdao · Frame 2 · Wish You Were Here</figcaption>
     </figure>
     <figure class="photo-card">
       <a href="/photography/qingdao&amp;weihai/qingdao_3.jpg" class="photo-card__link">
         <img src="/photography/qingdao&amp;weihai/qingdao_3.jpg" alt="Qingdao and Weihai coastal view 3">
       </a>
-      <figcaption>Qingdao &amp; Weihai · Wave 3</figcaption>
+      <figcaption>Weihai · Frame 3</figcaption>
     </figure>
     <figure class="photo-card">
       <a href="/photography/qingdao&amp;weihai/qingdao_4.jpg" class="photo-card__link">
         <img src="/photography/qingdao&amp;weihai/qingdao_4.jpg" alt="Qingdao and Weihai coastal view 4">
       </a>
-      <figcaption>Qingdao &amp; Weihai · Wave 4</figcaption>
+      <figcaption>Weihai · Frame 4</figcaption>
     </figure>
     <figure class="photo-card">
       <a href="/photography/qingdao&amp;weihai/qingdao_5.jpg" class="photo-card__link">
         <img src="/photography/qingdao&amp;weihai/qingdao_5.jpg" alt="Qingdao and Weihai coastal view 5">
       </a>
-      <figcaption>Qingdao &amp; Weihai · Wave 5</figcaption>
+      <figcaption>Weihai · Frame 5</figcaption>
     </figure>
     <figure class="photo-card">
       <a href="/photography/qingdao&amp;weihai/qingdao_6.jpg" class="photo-card__link">
         <img src="/photography/qingdao&amp;weihai/qingdao_6.jpg" alt="Qingdao and Weihai coastal view 6">
       </a>
-      <figcaption>Qingdao &amp; Weihai · Wave 6</figcaption>
+      <figcaption>Weihai · Frame 6</figcaption>
     </figure>
     <figure class="photo-card">
       <a href="/photography/qingdao&amp;weihai/qingdao_7.jpg" class="photo-card__link">
         <img src="/photography/qingdao&amp;weihai/qingdao_7.jpg" alt="Qingdao and Weihai coastal view 7">
       </a>
-      <figcaption>Qingdao &amp; Weihai · Wave 7</figcaption>
+      <figcaption>Weihai · Frame 7</figcaption>
     </figure>
   </div>
 </div>
@@ -400,7 +400,7 @@ Beyond academics, I'm an enthusiast in photography and filming. <br>
 ### Suzhou, Jiangsu, China. (2021.3-2022.11)
 
 <div class="photo-gallery">
-  <p class="photo-gallery__title">Water towns and quiet alleyways.</p>
+  <p class="photo-gallery__title">My beloved hometown. <br> "沧浪之水清兮 可以濯吾缨"</p>
   <div class="photo-grid">
     <figure class="photo-card">
       <a href="/photography/suzhou/2021.3_1.jpg" class="photo-card__link">
@@ -444,25 +444,25 @@ Beyond academics, I'm an enthusiast in photography and filming. <br>
 ### Zhoushan, Zhejiang, China. (2024.4)
 
 <div class="photo-gallery">
-  <p class="photo-gallery__title">Island tides meeting morning mist.</p>
+  <p class="photo-gallery__title"> Archipelago in the East China Sea. <br> Experimental photography of Weirdcore. "You can go back, but there's nobody there anymore" :)</p>
   <div class="photo-grid">
       <figure class="photo-card">
         <a href="/photography/zhoushan/zhoushan_1.jpg" class="photo-card__link">
           <img src="/photography/zhoushan/zhoushan_1.jpg" alt="Zhoushan island breeze 1">
         </a>
-        <figcaption>Zhoushan · Tide 1</figcaption>
+        <figcaption>Zhoushan · Trail 1</figcaption>
       </figure>
       <figure class="photo-card">
         <a href="/photography/zhoushan/zhoushan_2.jpg" class="photo-card__link">
           <img src="/photography/zhoushan/zhoushan_2.jpg" alt="Zhoushan island breeze 2">
         </a>
-        <figcaption>Zhoushan · Tide 2</figcaption>
+        <figcaption>Zhoushan · Trail 2</figcaption>
       </figure>
       <figure class="photo-card">
         <a href="/photography/zhoushan/zhoushan_3.jpg" class="photo-card__link">
           <img src="/photography/zhoushan/zhoushan_3.jpg" alt="Zhoushan island breeze 3">
         </a>
-        <figcaption>Zhoushan · Tide 3</figcaption>
+        <figcaption>Zhoushan · Trail 3</figcaption>
       </figure>
   </div>
 </div>
