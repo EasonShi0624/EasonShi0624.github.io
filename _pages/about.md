@@ -400,25 +400,25 @@ Beyond academics, I'm an enthusiast in photography and filming. Emotions and fee
 ### Shanghai, China. (2023.9)
 
 <div class="photo-gallery">
-  <p class="photo-gallery__title">Working people under the Oriental Pearl and iron skyline</p>
+  <p class="photo-gallery__title">Working people under the Oriental Pearl and iron skyline, and the friendship with the nature</p>
   <div class="photo-grid">
     <figure class="photo-card">
       <a href="/photography/shanghai/Shanghai_1.jpg" class="photo-card__link">
-        <img src="/photography/shanghai/Shanghai_1" alt="Hong Kong scene 1">
+        <img src="/photography/shanghai/Shanghai_1.jpg" alt="Shanghai scene 1">
       </a>
-      <figcaption>Shanghai · Frame 1 </figcaption>
+      <figcaption>Shanghai · Omnipotent Youth Society · Frame 1 </figcaption>
     </figure>
     <figure class="photo-card">
-      <a href="/photography/shanghai/Shanghai_2.jpg" class="photo-card__link">
-        <img src="/photography/shanghai/Shanghai_2.jpg" alt="Hong Kong scene 2">
+      <a href="/photography/shanghai/Shanghai_8.jpg" class="photo-card__link">
+        <img src="/photography/shanghai/Shanghai_8.jpg" alt="Hong Kong scene 2">
       </a>
-      <figcaption>Shanghai · Frame 2 </figcaption>
+      <figcaption>Shanghai · Crack · Frame 2 </figcaption>
     </figure>
     <figure class="photo-card">
       <a href="/photography/shanghai/Shanghai_3.jpg" class="photo-card__link">
         <img src="/photography/shanghai/Shanghai_3.jpg" alt="Hong Kong scene 3">
       </a>
-      <figcaption>Shanghai · Frame 3</figcaption>
+      <figcaption>Shanghai · Red Light · Frame 3</figcaption>
     </figure>
     <figure class="photo-card">
       <a href="/photography/shanghai/Shanghai_4.jpg" class="photo-card__link">
@@ -445,8 +445,8 @@ Beyond academics, I'm an enthusiast in photography and filming. Emotions and fee
       <figcaption>Shanghai · Frame 7</figcaption>
     </figure>
     <figure class="photo-card">
-      <a href="/photography/shanghai/Shanghai_8.jpg" class="photo-card__link">
-        <img src="/photography/shanghai/Shanghai_8.jpg" alt="Hong Kong scene 8">
+      <a href="/photography/shanghai/Shanghai_2.jpg" class="photo-card__link">
+        <img src="/photography/shanghai/Shanghai_2.jpg" alt="Hong Kong scene 8">
       </a>
       <figcaption>Shanghai · Frame 8</figcaption>
     </figure>
