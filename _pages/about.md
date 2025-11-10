@@ -30,7 +30,7 @@ and
   <a href="https://wp.nyu.edu/tuckerman_group/" style="color: #4b6aa1; text-decoration: none;">Professor Mark E. Tuckerman's group</a>
 </strong>.
 
-My current interests center on **developing molecular dynamics (MD) techniques for complex systems** and **bridging molecular science with cutting-edge data science approaches**. I am also excited to explore neighboring areas including electronic structure, drug discovery, and quantum computing.
+My current interests center on **applying and developing molecular dynamics (MD) techniques for complex systems** and **bridging molecular science with cutting-edge data science approaches**. I am also excited to explore neighboring areas including electronic structure, drug discovery, and quantum computing.
 
 I am actively seeking a PhD position in theoretical/computational chemistry, data science, or computer science for Fall 2027. Fingers crossed!
 
