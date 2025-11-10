@@ -397,6 +397,104 @@ Beyond academics, I'm an enthusiast in photography and filming. Emotions and fee
   </div>
 </div>
 
+### Shanghai, China. (2023.9)
+
+<div class="photo-gallery">
+  <p class="photo-gallery__title">Working people under the Oriental Pearl and iron skyline</p>
+  <div class="photo-grid">
+    <figure class="photo-card">
+      <a href="/photography/shanghai/Shanghai_1.jpg" class="photo-card__link">
+        <img src="/photography/shanghai/Shanghai_1" alt="Hong Kong scene 1">
+      </a>
+      <figcaption>Shanghai · Frame 1 </figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="/photography/shanghai/Shanghai_2.jpg" class="photo-card__link">
+        <img src="/photography/shanghai/Shanghai_2.jpg" alt="Hong Kong scene 2">
+      </a>
+      <figcaption>Shanghai · Frame 2 </figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="/photography/shanghai/Shanghai_3.jpg" class="photo-card__link">
+        <img src="/photography/shanghai/Shanghai_3.jpg" alt="Hong Kong scene 3">
+      </a>
+      <figcaption>Shanghai · Frame 3</figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="/photography/shanghai/Shanghai_4.jpg" class="photo-card__link">
+        <img src="/photography/shanghai/Shanghai_4.jpg" alt="Hong Kong scene 4">
+      </a>
+      <figcaption>Shanghai · Frame 4</figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="/photography/shanghai/Shanghai_5.jpg" class="photo-card__link">
+        <img src="/photography/shanghai/Shanghai_5.jpg" alt="Hong Kong scene 5">
+      </a>
+      <figcaption>Shanghai · Frame 5</figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="/photography/shanghai/Shanghai_6.jpg" class="photo-card__link">
+        <img src="/photography/shanghai/Shanghai_6.jpg" alt="Hong Kong scene 6">
+      </a>
+      <figcaption>Shanghai · Frame 6</figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="/photography/shanghai/Shanghai_7.jpg" class="photo-card__link">
+        <img src="/photography/shanghai/Shanghai_7.jpg" alt="Hong Kong scene 7">
+      </a>
+      <figcaption>Shanghai · Frame 7</figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="/photography/shanghai/Shanghai_8.jpg" class="photo-card__link">
+        <img src="/photography/shanghai/Shanghai_8.jpg" alt="Hong Kong scene 8">
+      </a>
+      <figcaption>Shanghai · Frame 8</figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="/photography/shanghai/Shanghai_9.jpg" class="photo-card__link">
+        <img src="/photography/shanghai/Shanghai_9.jpg" alt="Hong Kong scene 9">
+      </a>
+      <figcaption>Shanghai · Frame 9</figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="/photography/shanghai/Shanghai_10.jpg" class="photo-card__link">
+        <img src="/photography/shanghai/Shanghai_10.jpg" alt="Hong Kong scene 10">
+      </a>
+      <figcaption>Shanghai · Frame 10</figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="/photography/shanghai/Shanghai_11.jpg" class="photo-card__link">
+        <img src="/photography/shanghai/Shanghai_11.jpg" alt="Hong Kong scene 11">
+      </a>
+      <figcaption>Shanghai · Frame 11</figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="/photography/shanghai/Shanghai_12.jpg" class="photo-card__link">
+        <img src="/photography/shanghai/Shanghai_12.jpg" alt="Hong Kong scene 12">
+      </a>
+      <figcaption>Shanghai · Frame 12</figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="/photography/shanghai/Shanghai_13.jpg" class="photo-card__link">
+        <img src="/photography/shanghai/Shanghai_13.jpg" alt="Hong Kong scene 13">
+      </a>
+      <figcaption>Shanghai · Frame 13</figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="/photography/shanghai/Shanghai_14.jpg" class="photo-card__link">
+        <img src="/photography/shanghai/Shanghai_14.jpg" alt="Hong Kong scene 14">
+      </a>
+      <figcaption>Shanghai · Frame 14</figcaption>
+    </figure>
+    <figure class="photo-card">
+      <a href="/photography/shanghai/Shanghai_15.jpg" class="photo-card__link">
+        <img src="/photography/shanghai/Shanghai_15.jpg" alt="Hong Kong scene 15">
+      </a>
+      <figcaption>Shanghai · Frame 15</figcaption>
+    </figure>
+  </div>
+</div>
+
 ### Suzhou, Jiangsu, China. (2021.3-2022.11)
 
 <div class="photo-gallery">
