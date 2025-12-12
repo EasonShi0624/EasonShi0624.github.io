@@ -108,10 +108,8 @@ This work was for the final competition of CSCI-SHU 360 Machine Learning. It rec
 <span class='anchor' id='presentation'></span>
 # 🎤 Presentation
 
-Use this space to share presentation slide decks and talk materials. Add links below as new presentations are available.
-
 - *2025.12* · <strong style="color: #4b6aa1;"><a href="/presentation/251209_Stat Mech Pitch Presentation.pptx" style="color: #4b6aa1; text-decoration: none;" download>Simulation of Grand-canonical Ensemble</a></strong> · CHEM-GA 2600 Statistical Mechanics Pitch Presentation
-
+- *2025.12* · <strong style="color: #4b6aa1;"><a href="/presentation/251211_Path_integral.pptx" style="color: #4b6aa1; text-decoration: none;" download>Path Integral Formulation: Everything, everywhere, all at once</a></strong> · CHEM-GA 2665 Quantum Mechanics Pitch Presentation
 
 <span class='anchor' id='leadership'></span>
 # 💻 Leadership & Activities
