@@ -80,7 +80,8 @@ To explain the multiple relaxation timescales observed in uracil intermediates, 
 **Supervisor:** Mark E. Tuckerman <br>
 **Keywords:** Electrochemistry · Path Integral Molecular Dynamics (PIMD) · Machine Learning <br>
 
-Anion exchange membrane (AEM) fuel cells promise efficient and flexible energy storage and conversion, yet their electrolytes often suffer from limited hydrogen transportation. Deep eutectic solvents (DES) offer tunable hydrogen-bond networks and high stability. By pairing PIMD simulations with machine-learning potentials, we efficiently capture nuclear quantum effects (NQE) to screen candidate electrolytes.
+Redox flow batteries (RFBs) are a promising technology for grid-level storage of energy derived from intermittent renewable energy sources, however their wider adoption has been slow due to various drawbacks of existing technologies. As part of collaborative efforts between simulation and experiment, we are screening for alternative flow battery electrolytes that exhibit Grotthuss-accelerated proton transport mediated by extended hydrogen-bond networks.  
+However, accurately modeling these systems remains challenging because it requires treating both electronic and nuclear quantum effects. To address these challenges, we have developed DFT-trained machine-learning interatomic potentials (MLIPs) to enable computationally efficient path integral molecular dynamics (PIMD) simulations for these electrolyte systems.
 
 ### 4. Representation Learning with a Lightweight Convolutional Neural Network
 
