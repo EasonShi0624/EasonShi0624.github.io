@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuchen (Eason) Shi"
-description              : "Undergraduate researcher interested in Theoretical & Computational Chemistry"
+description              : "Undergraduate researcher in machine learning for chemical discovery, excited-state dynamics, and molecular modeling"
 repository               : "EasonShi0624/EasonShi0624.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,12 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuchen (Eason) Shi"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "NYUSH Chemistry & Data Science'27"
+  bio              : "NYU Shanghai · Chemistry & Data Science (AI) · Class of 2027"
                        
-  location         :
-    New York, U.S. <br>
-    Shanghai, China <br>
-    Suzhou, China
+  location         : "Shanghai, China"
     
     
   employer         :
@@ -43,13 +40,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/EasonShi0624"
+  github           : "EasonShi0624"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yuchenshi0624/"
+  linkedin         : "yuchenshi0624"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0002-4255-9825"
   pinterest        :

@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+excerpt: "Yuchen Shi is an undergraduate researcher at NYU Shanghai working on machine learning for chemical discovery, excited-state dynamics, and molecular modeling."
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,18 +21,11 @@ redirect_from:
 # 😁 About Me
 Hi, I'm Yuchen Shi—thanks for stopping by!
 
-I am a rising junior at NYU Shanghai pursuing double majors in Chemistry and Data Science. I am honored to work as an undergraduate research assistant in computational chemistry with
-<strong style="color: #4b6aa1;">
-  <a href="https://wp.nyu.edu/glover/" style="color: #4b6aa1; text-decoration: none;">Professor William J. Glover's group</a>
-</strong>
-and
-<strong style="color: #4b6aa1;">
-  <a href="https://wp.nyu.edu/tuckerman_group/" style="color: #4b6aa1; text-decoration: none;">Professor Mark E. Tuckerman's group</a>
-</strong>.
+I am an undergraduate at **New York University Shanghai**, pursuing a B.S. in **Chemistry and Data Science (AI Concentration)**, with expected graduation in **May 2027**.
 
-My current interests center on **applying and developing molecular dynamics (MD) techniques for complex systems** and **bridging molecular science with cutting-edge data science approaches**. I am also excited to explore neighboring areas including electronic structure, drug discovery, and quantum computing.
+My research interests are **machine learning for chemical discovery**, **excited-state electronic structure and dynamics**, and **multiscale molecular modeling**. My projects span GFP photochemistry with [William J. Glover](https://wp.nyu.edu/glover/), quantum simulations of battery electrolytes with [Mark E. Tuckerman](https://wp.nyu.edu/tuckerman_group/), protein–ligand structure prediction with [Teresa Head-Gordon](https://thglab.berkeley.edu/research/), and molecular conformer generation with Shengjie Wang and Yingkai Zhang.
 
-I am actively seeking a PhD position in theoretical/computational chemistry, data science, or computer science for Fall 2027. Fingers crossed!
+I am seeking PhD opportunities for **Fall 2027** in theoretical and computational chemistry, data science, and computer science.
 
 
 <span class='anchor' id='research'></span>
@@ -40,77 +33,109 @@ I am actively seeking a PhD position in theoretical/computational chemistry, dat
 
 ## Research Experience
 
-- *2025.10 – Present* · **Tuckerman Research Group** · NYU Department of Chemistry · PI: Mark E. Tuckerman
-- *2024.02 – Present* · **Glover Group** · NYU Shanghai Department of Chemistry · PI: William J. Glover
+### Chemical Control of Excited-State Dynamics in GFP Chromophore Anions
+
+*Feb 2024 – Present* · **Advisor:** William J. Glover
+
+- I lead a computational study of how chemical substitution changes excited-state relaxation in anionic GFP chromophores, using **MRSF-TDDFT** and **fewest-switches surface hopping (FSSH)** in OpenQP/Newton-X.
+- I developed a **natural transition orbital (NTO)** workflow to track diabatic state character and population transfer, elucidated the role of **nπ<sup>*</sup> states**, and proposed mechanism-guided substitution strategies to modulate chromophore photostability.
+
+### Protein-Environment Effects on Neutral and Anionic GFP Photodynamics
+
+*Jul 2024 – Present* · **Advisor:** William J. Glover
+
+- I constructed explicitly solvated GFP models with Maestro, PyMOL, and AMBER, and performed **DW-CASSCF QM/MM nonadiabatic dynamics** using **ab initio multiple spawning (AIMS)** in TeraChem/FMS90.
+- I implemented **configuration-interaction (CI) overlap calculations in TeraChem** to characterize diabatic excited-state populations, and analyzed how local electrostatics influence chromophore relaxation pathways.
+
+### Solvent Effects on Uracil Photorelaxation
+
+*Aug 2024 – Present* · **Advisor:** William J. Glover
+
+- I used gas-phase **ab initio molecular dynamics (AIMD)** in TeraChem to calculate IR spectra of uracil and a proposed photorelaxation intermediate from dipole time-correlation functions.
+- I mapped competing ground-state planarization pathways using **SVD-derived coordinates** and potential-energy scans, contributing to a collaboration with Suzuki’s group at Kyoto University to interpret experimental observations and evaluate the proposed intermediate.
+
+### ML-Accelerated Quantum Simulations of Redox-Flow Battery Electrolytes
+
+*Sep 2025 – Present* · **Advisor:** Mark E. Tuckerman
+
+- I generated AIMD trajectories in **CP2K** and trained an **equivariant Transformer in TorchMD-NET** for anthraquinone in imidazoleacetic acid electrolytes, using transfer learning and query-by-committee active learning.
+- I applied the learned potential to long-timescale classical MD and **path-integral molecular dynamics (PIMD)** to investigate nuclear quantum effects on proton transfer, solvation structure, and hydrogen-bond networks.
+- I computed temperature-dependent vibrational spectra of imidazole–levulinic acid electrolytes to support Raman measurements with the Sangoro group at Ohio State University, and studied hydrogen-bond clusters and proton-transfer energetics in imidazole–acetic acid electrolytes using AIMD, umbrella sampling, and **nudged elastic band (NEB)** calculations.
+
+### Co-folding Llama: Protein–Ligand Structure Prediction with LLMs
+
+*Jun 2026 – Present* · **Advisor:** Teresa Head-Gordon
+
+- I developed a data-curation pipeline combining structural repair, quality control, and leakage-aware splitting to assemble a **sub-million-scale dataset of protein–ligand complexes**.
+- I post-trained LLMs for **3D protein–ligand structure generation** using supervised fine-tuning and **LoRA**, and proposed factorized **Z-matrix representations** that separate intramolecular geometry from the relative rigid-body pose, using quaternion or axis-angle parameterizations.
+
+### StifFlow: Stiffness-Calibrated Flow Matching for Molecular Conformer Generation
+
+*Apr 2026 – Present* · **Advisors:** Shengjie Wang and Yingkai Zhang
+
+- I formulated a stiffness-aware flow-matching probability path using **precision-matrix interpolation** between graph-conditioned source and Hessian-informed conditional distributions.
+- I designed conditional covariances that adapt deformation scales to stiff and soft molecular modes while preserving physically relevant degrees of freedom, targeting both geometric accuracy and ensemble coverage.
 
 
-## Selected Projects
-### 1. Non-adiabatic Dynamics of Photo-response in Green Fluorescent Proteins (GFP)
+<span class='anchor' id='publications'></span>
+# 📄 Publications & Presentations
 
-**Supervisor:** William J. Glover <br>
-**Keywords:** Photochemistry · Ab-initio Multiple Spawning (AIMS) · QM/MM <br>
+## Manuscripts in Preparation
 
-Fluorescent proteins, first isolated from *A. victoria*, have become essential research tools across the life sciences. Their chromophores can undergo complex photochemical processes that change optical properties. We use non-adiabatic molecular dynamics to capture and interpret the excited-state behavior of GFP chromophores and to explore mutations that modulate photo-response, guiding the design and understanding of fluorescent proteins.
+- **Chemical Substitution Redirects UV Photoresponse in Green Fluorescent Protein (GFP) Chromophore Anions.** <br>
+  **Shi, Y.**, Shen, Y., Thongyod, W., Glover, W.<sup>*</sup>
+- **A Tale of Two Pathways: Solvent Effects on the Photorelaxation of Uracil.** <br>
+  Glover, W.<sup>*</sup>, Roy, R., **Shi, Y.**
 
-#### 1.1 Tuning the Photo-oxidation of the GFP Chromophore
+## Poster Presentations
 
-The anionic chromophore is central to the GFP photocycle and mediates multiple photochemical pathways. By applying non-adiabatic dynamics, we resolved controversies surrounding the photodamage mechanism in the gas phase and proposed two chemical modification strategies to tune the UV response.
+- *Aug 2026* · **ACS Fall 2026** <br>
+  Tuning the Photo-oxidation of the Green Fluorescent Protein (GFP) Chromophore through Chemical Modification. <br>
+  **Shi, Y.**, Shen, Y., Thongyod, W., Glover, W.<sup>*</sup>
+- *Jun 2026* · **ChemAI NYC 2026** <br>
+  Machine Learning-accelerated Quantum Simulations for Investigating Charge Transport in Candidate Redox-flow Battery Electrolytes. <br>
+  **Shi, Y.**, Chen, M. S.<sup>*</sup>, Tuckerman, M.<sup>*</sup>
+- *Jun 2026* · **18th International Congress on Quantum Chemistry** <br>
+  Chemical Control of UV-Induced Dynamics in the Green Fluorescent Protein (GFP) Chromophore. <br>
+  **Shi, Y.**, Shen, Y., Thongyod, W., Glover, W.<sup>*</sup>
+- *Jun 2024* · **2024 International Symposium on Computational Molecular Science and Machine Learning** <br>
+  Excited-state Dynamics of the Green Fluorescent Protein (GFP) Chromophore: Insights into Photo-oxidation. <br>
+  Shen, Y.<sup>†</sup>, **Shi, Y.<sup>†</sup>**, Thongyod, W., Glover, W.<sup>*</sup>
 
-#### 1.2 UV Response of Neutral and Anionic GFP Chromophores
+<sup>*</sup> Corresponding author. <sup>†</sup> Equal contribution.
 
-Building on the gas-phase study, we incorporated the protein environment and explicit solvent to simulate GFP excited-state dynamics more accurately. Comparing neutral and anionic chromophores revealed a promising mutation strategy that reshapes the local electrostatic environment to control photodamage.
+<span class='anchor' id='presentation'></span>
+## Coursework Presentations
 
-### 2. Investigating Photo-relaxation of Uracil via Ab Initio Molecular Dynamics
-
-**Supervisor:** William J. Glover <br>
-**Keywords:** Spectroscopy · Ab-initio Molecular Dynamics (AIMD) · Enhanced Sampling <br>
-
-Nucleotides are fundamental to DNA and RNA, yet prolonged UV exposure can trigger irreversible photodamage. We combine multiple computational techniques to complement experiments and shed light on the ultrafast dynamics of nucleotides.
-
-#### 2.1 Theoretical Vibrational IR Spectra from Time-Correlation Functions
-
-Time-correlation functions and ab initio molecular dynamics in both gas and condensed phases reveal the vibrational IR spectra of uracil and its photo-relaxation intermediates, highlighting the role of solvation effects in the process.
-
-#### 2.2 Umbrella Sampling Free-Energy Study with a Planarity Descriptor
-
-To explain the multiple relaxation timescales observed in uracil intermediates, Siyu Li (University of Oxford) and I worked on a molecular planarity descriptor and will employ umbrella sampling to construct the free-energy profile of the transition process.
-
-### 3. Nuclear Quantum Effects in Anion Exchange Membrane Fuel Cells
-
-**Supervisor:** Mark E. Tuckerman <br>
-**Keywords:** Electrochemistry · Path Integral Molecular Dynamics (PIMD) · Machine Learning <br>
-
-Redox flow batteries (RFBs) are a promising technology for grid-level storage of energy derived from intermittent renewable energy sources, however their wider adoption has been slow due to various drawbacks of existing technologies. As part of collaborative efforts between simulation and experiment, we are screening for alternative flow battery electrolytes that exhibit Grotthuss-accelerated proton transport mediated by extended hydrogen-bond networks.  
-However, accurately modeling these systems remains challenging because it requires treating both electronic and nuclear quantum effects. To address these challenges, we have developed DFT-trained machine-learning interatomic potentials (MLIPs) to enable computationally efficient path integral molecular dynamics (PIMD) simulations for these electrolyte systems.
-
-### 4. Representation Learning with a Lightweight Convolutional Neural Network
-
-**Supervisor:** Shengjie Wang <br>
-**Keywords:** Machine Learning · Computer Vision · Feature Extraction <br>
-
-Modern vision systems depend on high-quality learned features, and convolutional neural networks (CNNs) provide a powerful way to extract hierarchical image structures. In this project, I developed a lightweight CNN-based autoencoder to learn representations from a fusion image dataset, evaluating performance using reconstruction loss and recognition accuracy. Techniques such as batch normalization, residual connections, self-attention, and data augmentation are included to enhanced the performance.
-
-This work was for the final competition of CSCI-SHU 360 Machine Learning. It received a full score and ranked in the top 15%. Code is available on
-<strong style="color: #4b6aa1;">
-  <a href="https://github.com/EasonShi0624/25Spring_Machine_Learning" style="color: #4b6aa1; text-decoration: none;">GitHub</a>
-</strong>.
-
+- *Dec 2025* · [Simulation of Grand-canonical Ensemble](/presentation/251209_Stat%20Mech%20Pitch%20Presentation.pptx) · CHEM-GA 2600 Statistical Mechanics Pitch Presentation
+- *Dec 2025* · [Path Integral Formulation: Everything, everywhere, all at once](/presentation/251211_Path_integral.pptx) · CHEM-GA 2665 Quantum Mechanics Pitch Presentation
 
 <span class='anchor' id='education'></span>
 # 📖 Education
 
-- *2023.08 – Present* · B.S. in Chemistry with a second major in Data Science, New York University Shanghai <br>
-  **Cumulative GPA: 3.984**
+- *Aug 2023 – May 2027 (Expected)* · **New York University Shanghai** <br>
+  B.S. in Chemistry and Data Science (AI Concentration) <br>
+  **Cumulative GPA: 3.989/4.000**
+
+**Graduate-level coursework:** Computational Chemistry; Statistical Mechanics; Quantum Mechanics; Optimization & Computational Linear Algebra; Machine Learning for Molecular Science.
 
 ## Training
 
-- *2025.07* · **2025 Summer School on Machine Learning and Artificial Intelligence for the Molecular Sciences** · NYU Shanghai
+- *Jul 14–18, 2025* · **2025 Summer School on Machine Learning and Artificial Intelligence for the Molecular Sciences** · NYU-ECNU Center for Computational Chemistry · [Course materials](https://github.com/EasonShi0624/25summer_school_ML_MolecularScience)
 
-<span class='anchor' id='presentation'></span>
-# 🎤 Presentation
+## Selected Coursework Project
 
-- *2025.12* · <strong style="color: #4b6aa1;"><a href="/presentation/251209_Stat Mech Pitch Presentation.pptx" style="color: #4b6aa1; text-decoration: none;" download>Simulation of Grand-canonical Ensemble</a></strong> · CHEM-GA 2600 Statistical Mechanics Pitch Presentation
-- *2025.12* · <strong style="color: #4b6aa1;"><a href="/presentation/251211_Path_integral.pptx" style="color: #4b6aa1; text-decoration: none;" download>Path Integral Formulation: Everything, everywhere, all at once</a></strong> · CHEM-GA 2665 Quantum Mechanics Pitch Presentation
+**Representation Learning with a Lightweight Convolutional Neural Network** · Supervisor: Shengjie Wang <br>
+I developed a CNN-based autoencoder for the CSCI-SHU 360 Machine Learning final competition, using batch normalization, residual connections, self-attention, and data augmentation. The project received a full score and ranked in the top 15%. [Code on GitHub](https://github.com/EasonShi0624/25Spring_Machine_Learning).
+
+
+<span class='anchor' id='technical-skills'></span>
+# 🛠 Technical Skills
+
+- **Programming:** Python, C++, Shell.
+- **Machine Learning:** PyTorch, TorchMD-NET, Hugging Face Transformers, PEFT, FlashAttention-2.
+- **Electronic Structure & Dynamics:** TeraChem (contributor), OpenQP (beta-tester), FMS90, AMBER, CP2K, Newton-X, i-PI, BAGEL, eT, Molpro, Q-Chem, GAMESS-US, ORCA, OpenMolcas.
+- **Cheminformatics & Modeling:** RDKit, Gemmi, Biopython, Maestro, PyMOL, VMD, Molden.
 
 <span class='anchor' id='leadership'></span>
 # 💻 Leadership & Activities
@@ -124,12 +149,17 @@ This work was for the final competition of CSCI-SHU 360 Machine Learning. It rec
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
 
-- *2023.09* · **Violet Scholarship**, NYU Shanghai
-- *2024.05* · **First-Year Fellowship**, NYU Shanghai
-- *2025.04* · **Charting Your Path: Global Awards Leadership Program**, NYU Shanghai
-- *2025.06* · **Deans' Undergraduate Research Fund (DURF)**, NYU Shanghai  
-  **Project:** Tuning the Photo-oxidation of the Green Fluorescence Protein (GFP) Chromophore Through Chemical Modifications
-- *2024.06 & 2025.06* · **Dean's Honors List**, NYU Shanghai
+- *Oct 2026* · **National Scholarship**, Ministry of Education, PRC
+- *Jul 2026* · **Computational Resource Allocation (CIS261383)**, NSF ACCESS <br>
+  Co-applicant with Curtis Wu; PI: Teresa Head-Gordon.
+- *Jun 2026* · **Undergraduate Award in Physical Chemistry**, American Chemical Society
+- *Jun 2024, 2025, 2026* · **Dean's Honors List**, NYU Shanghai
+- *Jul 2025* · **NYU Shanghai 2025 Recognition Award**, NYU Shanghai
+- *Jun 2025* · **Deans' Undergraduate Research Fund (DURF)**, NYU Shanghai <br>
+  **Project:** Tuning the Photo-oxidation of the Green Fluorescent Protein (GFP) Chromophore Through Chemical Modifications
+- *Apr 2025* · **Charting Your Path: Global Awards Leadership Program**, NYU Shanghai
+- *May 2024* · **First-Year Fellowship**, NYU Shanghai
+- *Sep 2023* · **Violet Scholarship**, NYU Shanghai
 
 
 
