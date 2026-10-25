@@ -5,9 +5,15 @@
  
    - title: "Research"
      url: "#research"
+
+   - title: "Publications & Presentations"
+     url: "#publications"
  
    - title: "Education"
      url: "#education"
+
+   - title: "Technical Skills"
+     url: "#technical-skills"
 
    - title: "Leadership & Activities"
      url: "#leadership"
